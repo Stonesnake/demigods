@@ -1,0 +1,71 @@
+{
+  "folder": "HMNnJWuLW8iDhf1h",
+  "name": "First Domain",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You've unlocked your first domain, gaining its powers for yourself as well as granting it to your worshipers. Choose a domain that embodies your religion and what you stand for. If you aren't sure, you could consider choosing a domain listed alongside the virtue you feel your demigod embodies most. Your worshipers can select this domain's initial domain spell, and you gain the domain's initial domain spell as a divine focus spell. You can Refocus by reflecting upon your divinity, and your GM might allow you to Refocus by demonstrating your primary virtue. You become trained in spell attack modifier and spell DC. Your spellcasting attribute is the same as the one you chose for your demigod innate spells in the quasi divine ancestry ability.</p><hr /><p><strong>Special</strong> If you have the Draw Upon Domain ancestry feat, you must choose the domain from that feat for this domain.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 2
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742597251520,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "jn3y8wulCNFtB3b9",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!jn3y8wulCNFtB3b9"
+}

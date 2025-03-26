@@ -1,0 +1,291 @@
+{
+  "id": "battlezoo-ancestries-demigods",
+  "title": "Battlezoo Ancestries: Demigods by Roll for Combat",
+  "description": "",
+  "url": "http://www.battlezoo.com",
+  "version": "1.0",
+  "manifest": "https://raw.githubusercontent.com/Stonesnake/battlezoo-ancestries-demigods/main/module.json",
+  "download": "https://github.com/Stonesnake/battlezoo-ancestries-demigods/archive/refs/heads/main.zip",
+  "authors": [
+    {
+      "name": "Mark Seifter",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "4",
+          "verified": "4"
+        }
+      },
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.10.2"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "label": "Ancestry",
+      "name": "ancestries-pf2e",
+      "path": "packs/ancestries-pf2e",
+      "banner": "modules/battlezoo-ancestries-demigods/assets/tiles/pf2e/tile00.webp",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Boons",
+      "name": "boons-pf2e",
+      "path": "packs/boons-pf2e",
+      "banner": "modules/battlezoo-ancestries-demigods/assets/tiles/pf2e/tile01.webp",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Effects",
+      "name": "effects-pf2e",
+      "path": "packs/effects-pf2e",
+      "banner": "modules/battlezoo-ancestries-demigods/assets/tiles/pf2e/tile02.webp",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Feats",
+      "name": "feats-pf2e",
+      "path": "packs/feats-pf2e",
+      "banner": "modules/battlezoo-ancestries-demigods/assets/tiles/pf2e/tile03.webp",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Features",
+      "name": "features-pf2e",
+      "path": "packs/features-pf2e",
+      "banner": "modules/battlezoo-ancestries-demigods/assets/tiles/pf2e/tile04.webp",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Heritages",
+      "name": "heritages-pf2e",
+      "path": "packs/heritages-pf2e",
+      "banner": "modules/battlezoo-ancestries-demigods/assets/tiles/pf2e/tile05.webp",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Journals",
+      "name": "journals-pf2e",
+      "path": "packs/journals-pf2e",
+      "banner": "modules/battlezoo-ancestries-demigods/assets/tiles/pf2e/tile06.webp",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "JournalEntry",
+      "flags": {}
+    },
+    {
+      "label": "Token Preview",
+      "name": "scenes-pf2e",
+      "path": "packs/scenes-pf2e",
+      "system": "pf2e",
+      "banner": "modules/battlezoo-ancestries-demigods/assets/tiles/pf2e/tile07.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "Scene",
+      "flags": {}
+    },
+    {
+      "label": "Boons",
+      "name": "boons-dnd5e",
+      "path": "packs/boons-dnd5e",
+      "banner": "modules/battlezoo-ancestries-demigods/assets/tiles/5e/tile00.webp",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "LIMITED",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Species",
+      "name": "species-dnd5e",
+      "path": "packs/species",
+      "banner": "modules/battlezoo-ancestries-demigods/assets/tiles/5e/tile01.webp",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "LIMITED",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Species Features",
+      "name": "species-feature-dnd5e",
+      "path": "packs/species-features",
+      "banner": "modules/battlezoo-ancestries-demigods/assets/tiles/5e/tile02.webp",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "LIMITED",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Feats",
+      "name": "feat-dnd5e",
+      "path": "packs/feats-dnd5e",
+      "banner": "modules/battlezoo-ancestries-demigods/assets/tiles/5e/tile03.webp",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "LIMITED",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Journals",
+      "name": "journals-dnd5e",
+      "path": "packs/journals-dnd5e",
+      "banner": "modules/battlezoo-ancestries-demigods/assets/tiles/5e/tile04.webp",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "JournalEntry",
+      "flags": {}
+    },
+    {
+      "label": "Token Preview",
+      "name": "scenes-dnd5e",
+      "path": "packs/scenes-dnd5e",
+      "banner": "modules/battlezoo-ancestries-demigods/assets/tiles/5e/tile05.webp",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "Scene",
+      "flags": {}
+    }
+  ],
+  "media": [
+    {
+      "type": "setup",
+      "caption": "Battlezoo Ancestries: Demigods",
+      "thumbnail": "modules/battlezoo-ancestries-demigods/assets/preview.webp",
+      "loop": false,
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Roll For Combat",
+      "sorting": "m",
+      "folders": [
+        {
+          "name": "Battlezoo Ancestries: Demigods",
+          "sorting": "m",
+          "packs": [
+            "ancestries-pf2e",
+            "boons-pf2e",
+            "heritages-pf2e",
+            "feats-pf2e",
+            "effects-pf2e",
+            "features-pf2e",
+            "journals-pf2e",
+            "scenes-pf2e",
+            "boons-dnd5e",
+            "journals-dnd5e",
+            "equipment-dnd5e",
+            "species-dnd5e",
+            "species-feature-dnd5e",
+            "feat-dnd5e",
+            "scenes-dnd5e"
+          ],
+          "color": null,
+          "folders": []
+        }
+      ],
+      "color": null,
+      "packs": []
+    }
+  ],
+  "flags": {
+    "battlezoo-ancestries-demigods": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "demigod": "BZDEMI.Trait.Demigod"
+        },
+        "creatureTraits": {
+          "demigod": "BZDEMI.Trait.Demigod"
+        }
+      }
+    }
+  },
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "en.json",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "scripts/register-journal-style.mjs",
+    "scripts/kickstarter-announcement.mjs"
+  ],
+  "styles": [
+    "styles/demigods.css"
+  ]
+}

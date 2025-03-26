@@ -1,0 +1,60 @@
+{
+  "folder": "K42k6uydo4Ra0R0W",
+  "name": "Sacred Animal Affinity",
+  "type": "feat",
+  "img": "icons/creatures/mammals/deer-antlers-glowing-blue.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>You can communicate with your sacred animal (see @UUID[Compendium.battlezoo-ancestries-demigods.journals-dnd5e.JournalEntry.CqQoQpvqEOehOwgL.JournalEntryPage.ITImTyYjZ91IQtQx#building-a-religion]{Building a Religion}), and you get along especially well with them. You can speak with your sacred animals and very similar animals (for instance, if your sacred animal is a bumblebee bat, you could also speak with other types of bats) as if you shared a language. In addition, you have Advantage on Charisma ability checks made to Influence such creatures.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 1,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Demigod species",
+    "type": {
+      "value": "feat",
+      "subtype": "general"
+    }
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.8I20IIPSBcKmaTss",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742306701354,
+    "modifiedTime": 1742846672194,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "c9iTWdKgkj2mlIjm",
+  "_key": "!items!c9iTWdKgkj2mlIjm"
+}

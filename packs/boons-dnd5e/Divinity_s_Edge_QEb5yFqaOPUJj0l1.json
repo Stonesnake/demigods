@@ -1,0 +1,145 @@
+{
+  "folder": "byj00BmHBhsGz1yV",
+  "name": "Divinity's Edge",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "system": {
+    "activities": {
+      "sQBPdupXjpGmJSI7": {
+        "type": "damage",
+        "name": "Divinity's Edge",
+        "_id": "sQBPdupXjpGmJSI7",
+        "sort": 0,
+        "activation": {
+          "type": "bonus",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "damage": {
+          "critical": {
+            "allow": false
+          },
+          "parts": [
+            {
+              "custom": {
+                "enabled": false,
+                "formula": ""
+              },
+              "number": 1,
+              "denomination": "8",
+              "bonus": "",
+              "types": [
+                "necrotic",
+                "radiant"
+              ],
+              "scaling": {
+                "mode": ""
+              }
+            }
+          ]
+        },
+        "img": "",
+        "appliedEffects": []
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>You can focus your divinity into your blows, unleashing powerful attacks with a spiritual component. You can use a Bonus Action to infuse a weapon you're holding with divine power. If the next action you take this turn is to make an attack with that weapon, the attack deals an additional 1d6 Radiant or Necrotic damage (your choice) on a hit. If you're at least 10th level, increase this extra damage to 2d6, and if you're at least 18th level, increase it to 3d6. If the weapon you infuse is your favored weapon, increase the d6s of extra damage to d8s.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 8,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Level 8+, Courage Renown 19+",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.NUFoWygqvbjMcEgk",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742309351317,
+    "modifiedTime": 1742884697474,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "QEb5yFqaOPUJj0l1",
+  "_key": "!items!QEb5yFqaOPUJj0l1"
+}

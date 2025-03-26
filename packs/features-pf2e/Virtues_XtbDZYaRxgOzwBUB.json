@@ -1,0 +1,22 @@
+{
+  "name": "Virtues",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "XtbDZYaRxgOzwBUB",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742311241871,
+    "modifiedTime": 1742311241871,
+    "lastModifiedBy": "a4jenRFWJjNyIuAt"
+  },
+  "_key": "!folders!XtbDZYaRxgOzwBUB"
+}

@@ -1,0 +1,1322 @@
+{
+  "name": "Demigods Animated Tokens",
+  "navigation": false,
+  "navName": "",
+  "background": {
+    "src": null,
+    "scaleX": 1,
+    "scaleY": 1,
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": 0,
+    "tint": "#ffffff",
+    "anchorX": 0,
+    "anchorY": 0,
+    "fit": "fill",
+    "alphaThreshold": 0
+  },
+  "foreground": null,
+  "foregroundElevation": 20,
+  "thumb": "modules/battlezoo-ancestries-demigods/assets/thumbnail.webp",
+  "width": 3500,
+  "height": 3000,
+  "padding": 0.25,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
+  "backgroundColor": "#e6e6e6",
+  "grid": {
+    "type": 1,
+    "size": 100,
+    "color": "#000000",
+    "alpha": 0,
+    "distance": 5,
+    "units": "ft",
+    "style": "solidLines",
+    "thickness": 1
+  },
+  "tokenVision": true,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "templates": [],
+  "tiles": [
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/logos/demigods-logo.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 1600,
+      "y": 1350,
+      "width": 2000,
+      "height": 650,
+      "_id": "FAylXAUooHcqS47g",
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.FAylXAUooHcqS47g"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/full-art/demigods-art-1.webm",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 1600,
+      "y": 2000,
+      "width": 277,
+      "height": 275,
+      "_id": "s9dX1DyQni1mxfQL",
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.s9dX1DyQni1mxfQL"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/full-art/demigods-art-1s.webm",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 1600,
+      "y": 2300,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "scywoeJNsIDhJqkt",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.scywoeJNsIDhJqkt"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/tokens/demigods-token-1.webm",
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 1600,
+      "y": 2600,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "z87iyjA3IyiNE2Nt",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.z87iyjA3IyiNE2Nt"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/full-art/demigods-art-2.webm",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 1900,
+      "y": 2000,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "8PKNGGauAXs2gn06",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.8PKNGGauAXs2gn06"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/full-art/demigods-art-2s.webm",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 1900,
+      "y": 2300,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "CPHfiwqDxDACUizH",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.CPHfiwqDxDACUizH"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/full-art/demigods-art-3.webm",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 2200,
+      "y": 2000,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "gG5uZFyBVTBKcmWQ",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.gG5uZFyBVTBKcmWQ"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/full-art/demigods-art-3s.webm",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 2200,
+      "y": 2300,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "c7pZixop0XEx3bTQ",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.c7pZixop0XEx3bTQ"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/full-art/demigods-art-4.webm",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 2500,
+      "y": 2000,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "cvT9O8TXpbNaSFSi",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.cvT9O8TXpbNaSFSi"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/full-art/demigods-art-4s.webm",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 2500,
+      "y": 2300,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "p4FevezsY8eI6XYw",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.p4FevezsY8eI6XYw"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/full-art/demigods-art-5.webm",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 2800,
+      "y": 2000,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "1EcvCzPCwIZOK6hb",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.1EcvCzPCwIZOK6hb"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/full-art/demigods-art-5s.webm",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 2800,
+      "y": 2300,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "RdJtinyUQpeusk6i",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.RdJtinyUQpeusk6i"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/full-art/demigods-art-6.webm",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 3100,
+      "y": 2000,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "2CHiCH4WWDqcX4hX",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.2CHiCH4WWDqcX4hX"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/full-art/demigods-art-6s.webm",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 3100,
+      "y": 2300,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "d68sjfzdH8S2OkTf",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.d68sjfzdH8S2OkTf"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/full-art/demigods-art-7.webm",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 3400,
+      "y": 2000,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "D2sFFGhUzkE3BFl9",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.D2sFFGhUzkE3BFl9"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/full-art/demigods-art-7s.webm",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 3400,
+      "y": 2300,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "0FjjPkckj3KSp5zb",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.0FjjPkckj3KSp5zb"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/tokens/demigods-token-2.webm",
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 1900,
+      "y": 2600,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "R6IvM4ie8TYWkt3r",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.R6IvM4ie8TYWkt3r"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/tokens/demigods-token-3.webm",
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 2200,
+      "y": 2600,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "NMdjFQso3JhEnOpn",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.NMdjFQso3JhEnOpn"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/tokens/demigods-token-4.webm",
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 2500,
+      "y": 2600,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "RzDB7HeEdZIH1AEe",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.RzDB7HeEdZIH1AEe"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/tokens/demigods-token-5.webm",
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 2800,
+      "y": 2600,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "ap2wxBYUwktgfnyw",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.ap2wxBYUwktgfnyw"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/tokens/demigods-token-6.webm",
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 3100,
+      "y": 2600,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "KswRVusJqcNHRTEE",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.KswRVusJqcNHRTEE"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/tokens/demigods-token-7.webm",
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 3400,
+      "y": 2600,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "8nvpEblMNTwnVAS3",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.8nvpEblMNTwnVAS3"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/tokens/demigods-token-2a.webm",
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 1900,
+      "y": 2900,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "YaXGZ8uJIJ207glE",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.YaXGZ8uJIJ207glE"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/tokens/demigods-token-3a.webm",
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 2200,
+      "y": 2900,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "2Y59HJoPgaCoqczk",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.2Y59HJoPgaCoqczk"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/tokens/demigods-token-4a.webm",
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 2500,
+      "y": 2900,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "WN9JaIaXPelraVXu",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.WN9JaIaXPelraVXu"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/tokens/demigods-token-5a.webm",
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 2800,
+      "y": 2900,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "Hq3lhMrhrXO2eAgo",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.Hq3lhMrhrXO2eAgo"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/tokens/demigods-token-6a.webm",
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 3100,
+      "y": 2900,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "FBPM9GCNiqNUhk3G",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.FBPM9GCNiqNUhk3G"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/tokens/demigods-token-7a.webm",
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 3400,
+      "y": 2900,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "KFu2VgddAjdFqVS0",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.KFu2VgddAjdFqVS0"
+    },
+    {
+      "texture": {
+        "src": "modules/battlezoo-ancestries-demigods/assets/animated/tokens/demigods-token-1a.webm",
+        "scaleX": 1.5,
+        "scaleY": 1.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 1600,
+      "y": 2900,
+      "width": 277,
+      "height": 275,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "Mch6sq0lotSc7Zr3",
+      "_key": "!scenes.tiles!C2xwYIef81Gs6fBP.Mch6sq0lotSc7Zr3"
+    }
+  ],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "weather": "",
+  "ownership": {
+    "default": 0,
+    "l2rbNx2a8f5ocpeL": 3
+  },
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "battlezoo",
+      "system": "pf2e",
+      "coreVersion": "12.331",
+      "systemVersion": "6.10.2"
+    },
+    "pf2e": {
+      "rulesBasedVision": null,
+      "hearingRange": null,
+      "environmentTypes": []
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742967401482,
+    "modifiedTime": 1742967401482,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "folder": null,
+  "regions": [],
+  "fog": {
+    "exploration": true,
+    "reset": 1670901911652,
+    "overlay": null,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    }
+  },
+  "environment": {
+    "globalLight": {
+      "enabled": false,
+      "darkness": {
+        "max": 1,
+        "min": 0
+      },
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "luminosity": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0
+    },
+    "darknessLevel": 0,
+    "darknessLock": false,
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "navOrder": 0,
+  "_id": "C2xwYIef81Gs6fBP",
+  "active": false,
+  "sort": 0,
+  "_key": "!scenes!C2xwYIef81Gs6fBP"
+}

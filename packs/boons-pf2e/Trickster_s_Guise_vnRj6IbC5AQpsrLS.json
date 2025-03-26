@@ -1,0 +1,75 @@
+{
+  "folder": "HMNnJWuLW8iDhf1h",
+  "name": "Trickster's Guise",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>One of the most basic necessities for a trickster deity is the ability to take on disguises to confound and fool others, and you hate to disappoint. You don't need a disguise kit to @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Impersonate}. If you're a Small or Medium humanoid, you can use Trickster's Guise to Impersonate any other Small or Medium humanoid form in 1 minute. If you're not a humanoid, you can use it to Impersonate creatures of your rough type and body shape in 1 minute, and if you're Tiny or larger than Medium, you can use it to Impersonate creatures of your exact size only in 1 minute. When you use Trickster's Guise in this way, your Impersonate action gains the divine trait. You can return to your natural form with a single action.</p><p>While using Trickster's Guise to take on an allowed form (typically a Small or Medium humanoid for most demigods), you never take circumstance penalties for attempting to take a disguise of a different ancestry, age, and so on. If you're Small or Medium and your disguise causes you to shift between those sizes, your size temporarily changes to match the new size. However, since there aren't many mechanical distinctions between Small and Medium, this won't usually make a difference. Your shapeshifting only helps you disguise your body; if you don't have appropriate clothes for your new form, or at least a change of clothes, then your clothing might give you away.</p><hr /><p><strong>Special</strong> If you have the @UUID[Compendium.pf2e.feats-srd.Item.e4KB4pSkx2lDBNw3]{Quick Disguise} skill feat, you can use Trickster's Guise in 2 full rounds (roughly 12 seconds) instead of 1 minute, and if you are also a master in Deception, you can use it as a single action.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 2
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Trickery 2"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742767874634,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "vnRj6IbC5AQpsrLS",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!vnRj6IbC5AQpsrLS"
+}

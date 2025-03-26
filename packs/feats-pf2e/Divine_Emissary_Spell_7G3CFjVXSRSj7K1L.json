@@ -1,0 +1,75 @@
+{
+  "folder": "fk4p4M9agNuvwB7F",
+  "name": "Divine Emissary Spell",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You've gained a third spell that matches your religion which your most faithful clerics can learn and you can cast on your own each day. Choose a 4th-rank or 5th-rank spell from any spell list; most demigods choose a spell that isn't on the divine list because it helps their clerics more to do so, but you can choose a spell from the divine list if you prefer, despite your clerics' protests. You can cast this spell once per day as a divine innate spell; if you chose a 4th-rank spell with a duration of no more than 1 minute, you can instead cast it once per hour as a divine innate spell. Your clerics can prepare this spell and cast it as a divine spell, even if it isn't on the divine spell list.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 13
+    },
+    "category": "ancestry",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Divine Adept Spell"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742322552871,
+    "modifiedTime": 1742595260758,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "7G3CFjVXSRSj7K1L",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!7G3CFjVXSRSj7K1L"
+}

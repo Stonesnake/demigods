@@ -1,0 +1,22 @@
+{
+  "name": "1st Level",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "K42k6uydo4Ra0R0W",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742306512285,
+    "modifiedTime": 1742846064501,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_key": "!folders!K42k6uydo4Ra0R0W"
+}

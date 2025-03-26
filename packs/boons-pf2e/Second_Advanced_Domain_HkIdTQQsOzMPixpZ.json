@@ -1,0 +1,78 @@
+{
+  "folder": "sCTSUR6huCrXcRQ9",
+  "name": "Second Advanced Domain",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You've discovered the true meaning of your second domain and managed to obtain its strongest spell. You gain the advanced domain spell from your second domain, and your worshipers can select it as well.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 10
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "First Advanced Domain"
+        },
+        {
+          "value": "Second Domain"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742597238573,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "HkIdTQQsOzMPixpZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!HkIdTQQsOzMPixpZ"
+}

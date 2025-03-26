@@ -1,0 +1,75 @@
+{
+  "folder": "uVJuxO5TQmSHUPcX",
+  "name": "Limited Omniscience",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>With your deific omniscience, you know something about just about everything, and you tend to know when you're wrong. You are permanently @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened} and can use the extra action to @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}. Additionally, your checks to Recall Knowledge are no longer secret.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 20
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Innovation 20"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742771929279,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "o0gvBr8YMUKd0v6Y",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!o0gvBr8YMUKd0v6Y"
+}

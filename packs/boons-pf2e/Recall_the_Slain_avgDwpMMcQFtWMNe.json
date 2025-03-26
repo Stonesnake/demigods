@@ -1,0 +1,75 @@
+{
+  "folder": "uVJuxO5TQmSHUPcX",
+  "name": "Recall the Slain",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Your compassion is strong enough to cross the boundary between life and death and revive the recently slain. You can cast @UUID[Compendium.pf2e.spells-srd.Item.HpIJTVqgXorH9X0L] once per day as a divine innate spell, though you can't grant the spell to a worshiper with @UUID[Compendium.battlezoo-ancestries-demigods.features-pf2e.Item.HRebw56mBghaeDji]{Answer Prayer}; the power is too much, so you have to cast it yourself.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 20
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Compassion 20"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742772034774,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "avgDwpMMcQFtWMNe",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!avgDwpMMcQFtWMNe"
+}

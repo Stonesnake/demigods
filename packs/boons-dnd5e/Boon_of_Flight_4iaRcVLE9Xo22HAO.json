@@ -1,0 +1,60 @@
+{
+  "folder": "JEMZjToYGDHmOG8o",
+  "name": "Boon of Flight",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Your divine power allows you to fly, using a means appropriate for your religion (wings, currents of air, gravity control, jets of flame, and so on). You gain a Fly Speed equal to your Speed.</p><p><strong>Special.</strong> If you have the @UUID[Compendium.battlezoo-ancestries-demigods.feat-dnd5e.Item.CogToxiimypUYbwp]{Divine Flight} or @UUID[Compendium.battlezoo-ancestries-demigods.feat-dnd5e.Item.8jUIsnl6V0z5691N]{Perpetual Flight} species feat (or both), you can immediately exchange those feats for any demigod species feat of the same or lower level.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 14,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.ALMctqJJxjlj1P6v",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742308903581,
+    "modifiedTime": 1742885326641,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "4iaRcVLE9Xo22HAO",
+  "_key": "!items!4iaRcVLE9Xo22HAO"
+}

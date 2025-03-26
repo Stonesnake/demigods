@@ -1,0 +1,71 @@
+{
+  "folder": "KdwE1yCXG7xrYZTZ",
+  "name": "Keeper of Prayers",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You can hear the prayers of your worshipers, and occasionally, you answer them. Any time one of your worshipers prays to you with a request, you gain a general sense of what they asked for. You don't hear the exact words of their prayer, as this would be too much for your mind to process with a large enough religion praying at once, and this only transmits heartfelt prayers to help grant a worshiper's true needs and desires; it can't be used to transmit communications or reports. Once per 10 minutes, you can use a three action activity, which has the concentrate and mental traits, to send a message of up to 25 words to a worshiper in response to one of these prayers they made within the past 10 minutes. You can do so regardless of the worshiper's location, even if they aren't on the same planet or plane.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 17
+    },
+    "category": "ancestry",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742322552871,
+    "modifiedTime": 1742595260797,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "P5aSnL7YIBcw2gDJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!P5aSnL7YIBcw2gDJ"
+}

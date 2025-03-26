@@ -1,0 +1,69 @@
+{
+  "folder": "XtbDZYaRxgOzwBUB",
+  "name": "Sagacity",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Sagacity is the virtue of shrewd counselors, mentors, and decision-makers who either dispense wisdom to those who need it or use that same wisdom to guide their own actions. While demigods focusing on sagacity sometimes act behind the scenes, they can accomplish so much more than what they do directly by guiding others or taking small actions that lead to rippling consequences.</p><p><strong>In Earth Religion:</strong> Examples of deities and demigods demonstrating sagacity include Krishna guiding an uncertain Arjuna in the Bhagavad Gita, Athena's guidance to Telemachos in the Odyssey while disguised as Mentor (the namesake of the word \"mentor\").</p><p><strong>Associated Skills:</strong> Nature, Religion, Survival</p><p><strong>Associated Domains:</strong> Darkness, Death, Dreams, Fate, Moon, Nature, Perfection</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 1
+    },
+    "category": "ancestryfeature",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/skills/trades/academics-study-reading-book.webp",
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742316870988,
+    "modifiedTime": 1742595149958,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "0kk4YkXrHCoQtPiJ",
+  "sort": 0,
+  "_key": "!items!0kk4YkXrHCoQtPiJ"
+}

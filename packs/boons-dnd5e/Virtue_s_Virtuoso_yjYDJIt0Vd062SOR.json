@@ -1,0 +1,60 @@
+{
+  "folder": "byj00BmHBhsGz1yV",
+  "name": "Virtue's Virtuoso",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Just as your talented skill spreads tales of your virtue, your virtues feed fuel to the fire of your divinity and increase your skill in turn. It's a virtuous cycle, really. Choose one virtue with which you have a Renown Score of 19 or higher. You gain proficiency with all of that virtue's associated skills. If you already have proficiency with any of those skills, you gain Expertise in that skill instead.</p><p><strong>Repeatable.</strong> You can take this divine boon more than once, provided you have a Renown Score of 19 or higher in each virtue you choose.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 8,
+      "repeatable": true
+    },
+    "properties": [],
+    "requirements": "Level 8+, Any Virtue Renown 19+",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": -200000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.QTbL5U6z7OrOZVys",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742309352974,
+    "modifiedTime": 1742884168264,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "yjYDJIt0Vd062SOR",
+  "_key": "!items!yjYDJIt0Vd062SOR"
+}

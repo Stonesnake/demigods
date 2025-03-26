@@ -1,0 +1,119 @@
+{
+  "folder": "ioCWTP6l3TKAgmZb",
+  "name": "Divinity's Edge",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You focus your divinity into your blow and then unleash a powerful attack with a spiritual component. Make a Strike with your favored weapon. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, you deal 1d8 additional spirit damage. If you're at least 10th level, increase this to 2d8, and if you're at least 18th level, increase it to 3d8. If you're sanctified holy and the target is sanctified unholy, or vice versa, increase the d8s of spirit damage to d12s.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "key": "RollOption",
+        "option": "divinitys-edge",
+        "toggleable": true
+      },
+      {
+        "key": "DamageDice",
+        "predicate": [
+          "vicious-swing"
+        ],
+        "selector": "strike-damage",
+        "diceNumber": "ternary(gte(@actor.level,18),3,ternary(gte(@actor.level,10),2,1))",
+        "damageType": "spirit",
+        "dieSize": "d8"
+      },
+      {
+        "selectors": [
+          "strike-damage"
+        ],
+        "key": "DamageAlteration",
+        "mode": "override",
+        "property": "dice-faces",
+        "value": "12",
+        "slug": "divinitys-edge",
+        "predicate": [
+          {
+            "or": [
+              {
+                "and": [
+                  "self:trait:holy",
+                  "target:trait:unholy"
+                ]
+              },
+              {
+                "and": [
+                  "self:trait:unholy",
+                  "target:trait:holy"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "slug": "divinitys-edge",
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 8
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Courage 8"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742768851293,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "hMl0GfDLhflpgW2q",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!hMl0GfDLhflpgW2q"
+}

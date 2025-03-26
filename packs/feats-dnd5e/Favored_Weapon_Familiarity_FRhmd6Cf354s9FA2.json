@@ -1,0 +1,60 @@
+{
+  "folder": "K42k6uydo4Ra0R0W",
+  "name": "Favored Weapon Familiarity",
+  "type": "feat",
+  "img": "icons/weapons/polearms/spear-flared-gold.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>You've always felt a connection to a specific type of weapon, and that's why you chose it as your religion's favored weapon. You have proficiency with that type of weapon. In addition, you gain a bonus to damage rolls made with that weapon equal to one-half your Proficiency Bonus (rounded down).</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 1,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Demigod species",
+    "type": {
+      "value": "feat",
+      "subtype": "general"
+    }
+  },
+  "effects": [],
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.pvFb2Mn9FNsd1OEW",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742306709084,
+    "modifiedTime": 1742846590149,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "FRhmd6Cf354s9FA2",
+  "_key": "!items!FRhmd6Cf354s9FA2"
+}

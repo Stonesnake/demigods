@@ -1,0 +1,73 @@
+{
+  "folder": "gPTmeOBDTmMavUD6",
+  "name": "Reverent Spell",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You can use your worshipers as origins for your demigod magic. If the next action you use is to Cast a Spell you gained from a demigod ancestry feat or a boon, and that spell isn't one with no range that normally only functions on the spellcaster or one that creates an aura around the spellcaster, you can use one of your worshipers within 60 feet as the spell's origin point for the spell. Since you are still Casting the Spell, in some cases the GM might rule that the spell doesn't work or works differently when using the worshiper as the origin point. For instance, while line spells like lightning bolt would usually work with Reverent Spell, another line spell might not work if it normally moves you along a line from your original location dealing damage along the way.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "concentrate",
+        "demigod",
+        "spellshape"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 6
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "action"
+    },
+    "actions": {
+      "value": 1
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742597238791,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "V32fHrKyobHm3f61",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!V32fHrKyobHm3f61"
+}

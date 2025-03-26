@@ -1,0 +1,75 @@
+{
+  "folder": "uVJuxO5TQmSHUPcX",
+  "name": "Preventative Insight",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Your sagacity is so infallible that you have a sense when you're making a major blunder. If you're about to take a course of action that is a significant mistake leading to a bad outcome in the near future (typically one that would give a result of \"bad\" if you cast the @UUID[Compendium.pf2e.spells-srd.Item.41TZEjhO6D1nWw2X] spell), you have a gut feeling that something is off. This doesn't tell you why something feels wrong or what part of a more complicated course of action is the problem. This doesn't protect you against every hypothetical bad decision that comes up casually in conversation—you need to be honestly about to take the course of action to receive an automatic warning, though you can also concentrate for 1 minute on a specific hypothetical course of action to consider it carefully enough to receive a warning if the outcome was bad.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 20
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Sagacity 20"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742772017117,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "JD9mwLblqyhuVAc1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!JD9mwLblqyhuVAc1"
+}

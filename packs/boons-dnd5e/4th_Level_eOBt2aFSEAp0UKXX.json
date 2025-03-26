@@ -1,0 +1,22 @@
+{
+  "name": "4th Level",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "eOBt2aFSEAp0UKXX",
+  "description": "",
+  "sort": 200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742306570165,
+    "modifiedTime": 1742883444099,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_key": "!folders!eOBt2aFSEAp0UKXX"
+}

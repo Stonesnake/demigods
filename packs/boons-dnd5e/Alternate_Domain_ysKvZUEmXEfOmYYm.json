@@ -1,0 +1,60 @@
+{
+  "folder": "byj00BmHBhsGz1yV",
+  "name": "Alternate Domain",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Not all deities, and very few demigods, grant their followers a choice of more than one Domain, but you've unlocked an alternate Domain that worshipers of specific sects can choose. Choose a Domain you don't currently grant your followers. Your Clerics can select that Domain as their subclass choice, and you gain the @UUID[Compendium.battlezoo-ancestries-demigods.feat-dnd5e.Item.qN3vFOyznPSHesEs]{Delve Into Domain} feat for that Domain.</p><p><strong>Repeatable.</strong> You can take this divine boon more than once, but you must choose a different Domain each time.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 8,
+      "repeatable": true
+    },
+    "properties": [],
+    "requirements": "Level 8+, Renown 19+, Delve Into Domain feat",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.NQRljMJoD8cwQZe1",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742309350420,
+    "modifiedTime": 1742884526629,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "ysKvZUEmXEfOmYYm",
+  "_key": "!items!ysKvZUEmXEfOmYYm"
+}

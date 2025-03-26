@@ -1,0 +1,98 @@
+{
+  "folder": "7cAC4tgYx9VFdrMM",
+  "name": "Deific Spells",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You obtain three spells that match your religion's theme, learning to cast them yourself and granting them to your clerics as well. You gain the @UUID[Compendium.battlezoo-ancestries-demigods.feats-pf2e.Item.40O8Fv6eXCbQd9F8]{Divine Initiate Spell}, @UUID[Compendium.battlezoo-ancestries-demigods.feats-pf2e.Item.mT8AUuJq6c4yes85]{Divine Adept Spell}, and @UUID[Compendium.battlezoo-ancestries-demigods.feats-pf2e.Item.7G3CFjVXSRSj7K1L]{Divine Emissary Spell} ancestry feats; if you already had one or more of those ancestry feats, retrain them into different feats.</p><hr /><p><strong>Special</strong> You can choose Deific Spells as a 16th level boon instead of a 14th level boon. If you choose to do so, you gain @UUID[Compendium.battlezoo-ancestries-demigods.feats-pf2e.Item.lEXVOgaYNlWgQDXe]{Divine Hierophant Spell} instead of Divine Emissary Spell, even if you don't meet Divine Hierophant Spell's usual level prerequisite.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.battlezoo-ancestries-demigods.feats-pf2e.Item.40O8Fv6eXCbQd9F8"
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.battlezoo-ancestries-demigods.feats-pf2e.Item.mT8AUuJq6c4yes85"
+      },
+      {
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.battlezoo-ancestries-demigods.feats-pf2e.Item.7G3CFjVXSRSj7K1L"
+          },
+          {
+            "value": "Compendium.battlezoo-ancestries-demigods.feats-pf2e.Item.lEXVOgaYNlWgQDXe"
+          }
+        ],
+        "key": "ChoiceSet",
+        "prompt": "PF2E.SpecificRule.Prompt.Feat",
+        "flag": "feat"
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "{item|flags.pf2e.rulesSelections.feat}"
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 14
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742769773373,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "dfJJwTBb1OH3cPNa",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!dfJJwTBb1OH3cPNa"
+}

@@ -1,0 +1,89 @@
+{
+  "folder": "fSo31GUbEszj36u2",
+  "name": "Perpetual Flight",
+  "type": "feat",
+  "img": "icons/magic/air/wind-tornado-wall-blue.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Your flight is permanently active. You gain the following benefits.</p><p><strong>Ability Score Increase.</strong> Increase your Dexterity or Constitution score by 1, to a maximum of 20.</p><p><strong>Flight.</strong> You gain a Fly Speed equal to your Speed at all times. When you use @UUID[Compendium.battlezoo-ancestries-demigods.feat-dnd5e.Item.CogToxiimypUYbwp]{Divine Flight}, your Fly Speed increases by 20 feet for the duration.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [
+      {
+        "_id": "jgu7c1QitmewI6mG",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "cap": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "locked": [
+            "str",
+            "int",
+            "wis",
+            "cha"
+          ],
+          "points": 1
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      }
+    ],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 12,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Level 12+, Demigod species",
+    "type": {
+      "value": "feat",
+      "subtype": "general"
+    }
+  },
+  "effects": [],
+  "sort": 175000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.fLq79mKsclyBqvJC",
+    "duplicateSource": "Item.8fdDTjdPSaTTjAD8",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742323160509,
+    "modifiedTime": 1742882845545,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "8jUIsnl6V0z5691N",
+  "_key": "!items!8jUIsnl6V0z5691N"
+}

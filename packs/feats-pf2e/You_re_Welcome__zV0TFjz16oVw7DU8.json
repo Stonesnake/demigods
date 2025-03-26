@@ -1,0 +1,91 @@
+{
+  "folder": "UiUt43DOHTkZah2I",
+  "name": "You're Welcome!",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>As a demigod, you know how to take advantage of displays of divine power that fulfill others' wishes. You become an expert in Diplomacy. When you use your divine power to provide needed aid or assistance to other creatures, you can immediately make Diplomacy checks to @UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Make an Impression} on up to 10 of them at a +1 circumstance bonus (or a +2 circumstance bonus if you're a master in Diplomacy), without spending any additional actions to do so. If you have the @UUID[Compendium.pf2e.feats-srd.Item.KpFetnUqTiweypZk]{Group Impression} skill feat, you can instead Make an Impression on twice as many creatures as you normally could with that feat when using this feat, and you still don't spend any additional actions to do so.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "upgrade",
+        "path": "system.skills.diplomacy.rank",
+        "value": 2
+      },
+      {
+        "key": "FlatModifier",
+        "selector": "diplomacy",
+        "value": "ternary(gte(@actor.system.skills.diplomacy.rank,3),2,1)",
+        "type": "circumstance",
+        "predicate": [
+          "youre-welcome"
+        ]
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 9
+    },
+    "category": "ancestry",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "trained in Diplomacy"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742322552871,
+    "modifiedTime": 1742598749392,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "zV0TFjz16oVw7DU8",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!zV0TFjz16oVw7DU8"
+}

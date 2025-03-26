@@ -1,0 +1,60 @@
+{
+  "folder": "eOBt2aFSEAp0UKXX",
+  "name": "Answer Prayer",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>You've learned to answer prayers in a similar way to full deities, albeit at a much shorter range. When one of your worshipers you can see within 120 feet of you prays to you (which doesn't require an action), you can use your Reaction to grant that creature's prayer. If you do, the triggering creature can use the Magic action to cast a spell chosen by you. You must be able to cast the spell from your demigod feats or traits or from your religion boons, and the casting expends the spell slot or use of the spell as normal. In addition, the spell must have a casting time of Action or Bonus Action, and the spell's level can't be higher than half than the creature's level or Challenge Rating, rounded up. The creature makes any decisions required by the spell (such as the spell's targets or point of origin) but uses your spell save DC or spell attack bonus, if needed. If the creature doesn't cast the spell by the end of its turn, the spell is wasted with no effect.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 4,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Level 4+, Renown 6+, the ability to cast at least one spell",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.gxXmhDSss9tl7TQZ",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742309777456,
+    "modifiedTime": 1742884168130,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "rfpOVPfe6ZNYUXvH",
+  "_key": "!items!rfpOVPfe6ZNYUXvH"
+}

@@ -1,0 +1,75 @@
+{
+  "folder": "ioCWTP6l3TKAgmZb",
+  "name": "Alternate Domains",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Not all deities, and very few demigods, have more than four domains, but some have alternate domains that their worshipers of specific sects can choose to use in place of some of the normal domains. You've unlocked your fifth and sixth domains, your alternate domains. For these domains, think about minor or questionable aspects of your religion that might not be important to every worshiper but might instead reveal themselves in specific subdivisions of your faith. Choose a fifth and sixth domain. Your worshipers can select one or both of these domains' initial domain spells in place of your normal domains if they worship an aspect of your faith that matches them, and you gain both domains' initial domain spells as divine spells.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 8
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Complete Domains"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742597238980,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "evJJZUD2NYluMORW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!evJJZUD2NYluMORW"
+}

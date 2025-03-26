@@ -1,0 +1,81 @@
+{
+  "folder": "gNbyHSeIkB5ZVO2d",
+  "name": "Sacred Animal Affinity",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You can communicate with your sacred animals and you get along especially well with animals of that kind. You can speak to and understand your sacred animal (see page 15) and very similar animalbes (for instance, if your sacred animal is the bumblebee bat like Kuu, you could speak to and understand bats). You can use the Diplomacy skill with your sacred animal with a +2 circumstance bonus to @UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Make an Impression} or @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Request}, and in most cases, your sacred animal starts as friendly to you, even before you Make an Impression, as they sense your connection and instinctively like you.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "selector": "diplomacy",
+        "value": 2,
+        "type": "circumstance",
+        "predicate": [
+          "sacred-animal"
+        ]
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 1
+    },
+    "category": "ancestry",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742322552871,
+    "modifiedTime": 1742597365020,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "vkODTk1vSVSLT8AR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!vkODTk1vSVSLT8AR"
+}

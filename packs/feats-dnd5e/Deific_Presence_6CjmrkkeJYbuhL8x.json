@@ -1,0 +1,140 @@
+{
+  "folder": "4HtphL7Mi31YgY5K",
+  "name": "Deific Presence",
+  "type": "feat",
+  "img": "icons/magic/light/explosion-star-glow-silhouette.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Your quasi-divine presence is so strong that it's nearly a visible aura, sending awe through your allies and fear through your enemies. You gain the following benefits.</p><p><strong>Ability Score Increase.</strong> Increase your Charisma score by 1, to a maximum of 20.</p><p><strong>Skill Training.</strong> You gain proficiency in the Intimidation and Persuasion skills. If you already have proficiency with either skill, you gain Expertise in that skill instead.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [
+      {
+        "_id": "sg9dtResmoWiFp8K",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "cap": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 1
+          },
+          "locked": [],
+          "points": 0
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      }
+    ],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 4,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Level 4+, Demigod species",
+    "type": {
+      "value": "feat",
+      "subtype": "general"
+    }
+  },
+  "effects": [
+    {
+      "name": "Deific Presence",
+      "img": "systems/dnd5e/icons/svg/items/feature.svg",
+      "origin": "Compendium.battlezoo-ancestries-demigods.feat-dnd5e.Item.6CjmrkkeJYbuhL8x",
+      "_id": "yfaWS92wpna0bx5s",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.skills.itm.value",
+          "mode": 4,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.skills.per.value",
+          "mode": 4,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1742846863245,
+        "modifiedTime": 1742846938574,
+        "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+      },
+      "_key": "!items.effects!6CjmrkkeJYbuhL8x.yfaWS92wpna0bx5s"
+    }
+  ],
+  "sort": 225000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.pzm6e1vCJc43ZVF6",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742306694212,
+    "modifiedTime": 1742846956131,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "6CjmrkkeJYbuhL8x",
+  "_key": "!items!6CjmrkkeJYbuhL8x"
+}

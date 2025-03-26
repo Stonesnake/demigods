@@ -1,0 +1,134 @@
+{
+  "folder": null,
+  "name": "Genius",
+  "type": "feat",
+  "_id": "gjSfElkwdx6kFO98",
+  "img": "icons/sundries/books/book-open-purple.webp",
+  "system": {
+    "activities": {
+      "WqvaVa9uByHaNqRW": {
+        "type": "utility",
+        "name": "Genius",
+        "_id": "WqvaVa9uByHaNqRW",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": null,
+          "override": false,
+          "condition": "You would make an ability check to recall knowledge using a skill in which you have proficiency"
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [
+            {
+              "period": "lr",
+              "type": "recoverAll"
+            },
+            {
+              "period": "sr",
+              "type": "recoverAll"
+            }
+          ],
+          "max": "1"
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "formula": "",
+          "name": ""
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Due to your genius, you know just about all the basics of any topic you bother to study. When you would make an ability check to recall knowledge using a skill in which you have proficiency, you can choose to make the check with Advantage. If you do, you can't use Genius again until you finish a Short or Long Rest.</p>",
+      "chat": ""
+    },
+    "identifier": "genius",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.ElQVNeKIrPZeoT2v",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742843384198,
+    "modifiedTime": 1742883613407,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_key": "!items!gjSfElkwdx6kFO98"
+}

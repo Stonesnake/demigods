@@ -1,0 +1,78 @@
+{
+  "folder": "youGOMv2VJucg6Vh",
+  "name": "Overflowing Compassion",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Your compassion flows deep, allowing you to bring additional healing to those in need. You gain an additional spell slot of the maximum rank you can cast, which can only be used to cast a @UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs] spell (or a @UUID[Compendium.pf2e.spells-srd.Item.szIyEsvihc5e1w8n] spell if you cast occult spells). If you can cast more than one tradition of magic, choose the tradition for which you have the highest rank of spells, and if there's still a tie, you choose which one is associated with Overflowing Compassion's additional spell slot.</p><hr /><p><strong>Special</strong> If you're an undead or otherwise recover Hit Points from the @UUID[Compendium.pf2e.spells-srd.Item.wdA52JJnsuQWeyqz] spell instead of the heal spell and your faith is centered around compassion toward undead or other creatures with void affinity, you can use the slot to cast <em>harm</em> but not <em>heal</em>.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 4
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "ability to cast divine, occult, or primal spells with spell\r\nslots"
+        },
+        {
+          "value": "Compassion 4"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742768351907,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "HaXfV9ZtipQ2ZkcG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!HaXfV9ZtipQ2ZkcG"
+}

@@ -1,0 +1,110 @@
+{
+  "folder": null,
+  "name": "Divine Toughness",
+  "type": "feat",
+  "_id": "NUh7larP3LHdjj9d",
+  "img": "icons/magic/life/heart-area-circle-red-green.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level.</p>",
+      "chat": ""
+    },
+    "identifier": "divine-toughness",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [
+    {
+      "name": "Divine Toughness",
+      "img": "icons/magic/life/heart-area-circle-red-green.webp",
+      "origin": "Item.fKGaBhPVers8HDeC",
+      "_id": "J6QedEPc0Tna4CJA",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.hp.bonuses.level",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!NUh7larP3LHdjj9d.J6QedEPc0Tna4CJA"
+    }
+  ],
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.fKGaBhPVers8HDeC",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742845739151,
+    "modifiedTime": 1742883622669,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_key": "!items!NUh7larP3LHdjj9d"
+}

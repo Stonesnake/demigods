@@ -1,0 +1,75 @@
+{
+  "folder": "tbE7wVmmLga1YaDR",
+  "name": "Trickster's Guile",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p><strong>Trigger</strong> Your turn ends</p><p><strong>Requirements</strong> You are currently affected by a mental effect</p><hr /><p>Those who seek to bargain with or control you quickly learn that a trickster has slippery schemes and cunning ruses to elude the most carefully crafted wording or mental command. Until the end of your next turn, you ignore a single mental effect. You can suppress a particular effect using Trickster's Guile only once. You can't use Trickster's Guile to suppress an effect if you chose to have it affect you.</p><hr /><p><strong>Special</strong> Your divinity allows you to use Trickster's Guile even if the mental effect is preventing you from using reactions (such as the @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix] condition) or controlling you to use your reactions in a certain way.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 16
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "reaction"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Trickery 16"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742771631469,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "tDyqgp2iCLTl72w4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!tDyqgp2iCLTl72w4"
+}

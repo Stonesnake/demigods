@@ -1,0 +1,134 @@
+{
+  "name": "Demigod",
+  "type": "ancestry",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p><em>The least of lesser deities, demigods are fledglings who must grow into their divine abilities before they can enact the kind of miracles associated with even the least of true gods. And yet, they can grow their faith and their power to become something more.</em></p><p>@UUID[Compendium.battlezoo-ancestries-demigods.journals-pf2e.JournalEntry.5hcIjt7NsVFznieI.JournalEntryPage.ITImTyYjZ91IQtQx]{Demigod Ancestry}</p><hr /><p><em>Note: The ancestry defaults are set to the Human ancestry. To change those change the traits and size on this item.</em></p>"
+    },
+    "rules": [],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod",
+        "human",
+        "humanoid"
+      ],
+      "rarity": "rare"
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "hp": 8,
+    "size": "med",
+    "reach": 5,
+    "speed": 25,
+    "boosts": {
+      "0": {
+        "value": [
+          "cha"
+        ]
+      },
+      "1": {
+        "value": [
+          "cha",
+          "con",
+          "dex",
+          "int",
+          "str",
+          "wis"
+        ]
+      },
+      "2": {
+        "value": [
+          "str",
+          "dex",
+          "con",
+          "int",
+          "wis",
+          "cha"
+        ]
+      }
+    },
+    "flaws": {
+      "0": {
+        "value": [
+          "cha",
+          "con",
+          "dex",
+          "int",
+          "str",
+          "wis"
+        ]
+      }
+    },
+    "languages": {
+      "value": [
+        "common"
+      ],
+      "custom": ""
+    },
+    "additionalLanguages": {
+      "count": 0,
+      "value": [],
+      "custom": ""
+    },
+    "items": {
+      "covmc": {
+        "uuid": "Compendium.battlezoo-ancestries-demigods.features-pf2e.Item.V6A2gabCGKHJsL19",
+        "img": "icons/magic/life/heart-broken-red.webp",
+        "name": "Fatal Flaw",
+        "level": 1
+      },
+      "q7YA3": {
+        "uuid": "Compendium.battlezoo-ancestries-demigods.features-pf2e.Item.Nj9ysmuXMPxtEKON",
+        "img": "icons/magic/nature/leaf-juggle-humanoid-green.webp",
+        "name": "Part Mortal",
+        "level": 1
+      },
+      "ESUuK": {
+        "uuid": "Compendium.battlezoo-ancestries-demigods.features-pf2e.Item.dZooeuYEs1Lm67cu",
+        "img": "icons/magic/holy/projectiles-blades-salvo-yellow.webp",
+        "name": "Quasi Divine",
+        "level": 1
+      }
+    },
+    "vision": "low-light-vision",
+    "details": {
+      "publication": {
+        "remaster": true,
+        "title": "Battlezoo Ancestries: Demigods",
+        "license": "ORC"
+      }
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742310642612,
+    "modifiedTime": 1742597964423,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "gy8S8ePIbUSfrzHe",
+  "sort": 0,
+  "_key": "!items!gy8S8ePIbUSfrzHe"
+}

@@ -1,0 +1,71 @@
+{
+  "folder": "UiUt43DOHTkZah2I",
+  "name": "Auspicious Animal",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You can send out your @UUID[Compendium.battlezoo-ancestries-demigods.journals-pf2e.JournalEntry.5hcIjt7NsVFznieI.JournalEntryPage.ITImTyYjZ91IQtQx#initial-boons]{sacred animals} to serve as messengers or omens. Once per hour, you can spend 1 minute offering food to one of your sacred animals nearby who can see and hear you. You imprint the image, direction, and distance of an obvious place or landmark well known to you within the sacred animal. You can also attach a small object or note up to light Bulk to it, or ask it to perform a simple action to serve as an omen: something simple such as an owl hooting or swooping overhead, but not opening a door, attacking someone, or stealing something. When in doubt, if you intended the action in the omen to allow the animal to achieve some other goal for you in and of itself, rather than simply delivering an omen of your faith, the action isn't a simple omen.</p><p>The animal does its best to reach the destination; if it makes it there, it either performs the omen, or if it has a message, it waits nearby and allows non-hostile creatures to approach and remove the attached object. The effect ends after the omen or message is delivered or after 24 hours, whichever comes first. If there are none of your sacred animal in range, your attempt to use Auspicious Animal fails.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 9
+    },
+    "category": "ancestry",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742322552871,
+    "modifiedTime": 1742598142541,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "VJxQrRDpdcCpB8Gv",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!VJxQrRDpdcCpB8Gv"
+}

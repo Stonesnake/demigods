@@ -1,0 +1,77 @@
+{
+  "folder": "uVJuxO5TQmSHUPcX",
+  "name": "Grant Miracle",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p><strong>Frequency</strong> once per day</p><p><strong>Requirements</strong> one of your worshipers you can see within 120 feet prayed for a miracle from you within the past round, spending at least one action to do so and requesting specific aid from you.</p><hr /><p>You manifest your divine power to grant the miracle to your worshiper in need. You duplicate a divine spell of 9th rank or lower, any spell you allow your clerics to add to their spell list from your demigod ancestry feats, or a spell of 7th rank or lower from a tradition other than divine. Though you can normally choose only spells that are common or to which you have access, the GM might allow broader options.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "concentrate",
+        "demigod",
+        "manipulate"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 20
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "action"
+    },
+    "actions": {
+      "value": 3
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null,
+    "frequency": {
+      "max": 1,
+      "per": "day"
+    }
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742771772374,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "GXEdaiUepYq1K3eP",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!GXEdaiUepYq1K3eP"
+}

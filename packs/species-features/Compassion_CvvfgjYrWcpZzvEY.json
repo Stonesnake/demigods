@@ -1,0 +1,60 @@
+{
+  "folder": "p2P8Xz2UVJOKod8N",
+  "name": "Compassion",
+  "type": "feat",
+  "_id": "CvvfgjYrWcpZzvEY",
+  "img": "icons/magic/life/heart-red-blue.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Compassion is the virtue of demigods whose hearts are full of loving kindness for mortals who suffer from oppression and harm. Demigods focused on compassion can provide succor to others as well as easily win their hearts and minds.</p><p><strong>Real-World Examples:</strong> Examples of deities and demigods demonstrating compassion include the bodhisattva Guanyin healing the boy Sudhana and Jesus laying on hands to heal the sick.</p><p><strong>Associated Skills:</strong> Medicine, Nature, Persuasion</p><p><strong>Associated Domain:</strong> Life</p>",
+      "chat": ""
+    },
+    "identifier": "virtue",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 1,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Demigod species",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.eFdlvndLqhtBW102",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742307712886,
+    "modifiedTime": 1742846427971,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_key": "!items!CvvfgjYrWcpZzvEY"
+}

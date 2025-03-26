@@ -1,0 +1,78 @@
+{
+  "folder": "ioCWTP6l3TKAgmZb",
+  "name": "Virtue's Virtuoso",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Just as your talented skill spreads tales of your virtue, your virtues feed fuel to the fire of your divinity and increase your skill in turn. It's a virtuous cycle, really. Choose one virtue for which you have at least 8 points. Increase your proficiency rank in one of the virtue's associated skills from expert to master and in another of the associated skills from trained to expert. You gain a skill feat associated with one of the skills you chose; you must meet all its prerequisites.</p><hr /><p><strong>Special</strong> You can gain the Virtue's Virtuoso boon up to five times if your virtues are high enough. Each time you do so, you must choose a different virtue.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 8
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 5,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "8 in at least one virtue"
+        },
+        {
+          "value": "trained in one of that virtue's skills and expert in another"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742768902205,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "Ug4qu9b98bMpEbRM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!Ug4qu9b98bMpEbRM"
+}

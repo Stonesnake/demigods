@@ -1,0 +1,99 @@
+{
+  "folder": null,
+  "name": "Trickster Demigod",
+  "type": "heritage",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Your cunning, cleverness, and mischievous nature bring you to play pranks and get up to trouble, causing you to be labeled a trickster or scoundrel, possibly even before you gained your divinity. You overflow with the virtue of trickery. Choose whether you have a way with words or with your sticky fingers. If you choose words, you become trained in Deception and gain the @UUID[Compendium.pf2e.feats-srd.Item.B6HbYsLBWb1RR6Fx]{Charming Liar} and @UUID[Compendium.pf2e.feats-srd.Item.Dvz54d6aPhjsmUux]{Lie to Me} skill feats. If you choose sticky fingers, you become trained in Thievery and gain the @UUID[Compendium.pf2e.feats-srd.Item.5eNKs6738aykAhK2]{Dirty Trick} and @UUID[Compendium.pf2e.feats-srd.Item.jDdOqFmZLwE4dblQ]{Pickpocket} skill feats. Either way, if you were already trained in the skill you chose, you become trained in a different skill of your choice instead.</p><p>Your fatal flaw is your choice of hubris or vulnerability.</p>"
+    },
+    "rules": [
+      {
+        "adjustName": false,
+        "choices": [
+          {
+            "label": "BZDEMI.SpecificRule.TricksterDemigod.StickyFingers",
+            "value": {
+              "featOne": "Compendium.pf2e.feats-srd.Item.5eNKs6738aykAhK2",
+              "featTwo": "Compendium.pf2e.feats-srd.Item.jDdOqFmZLwE4dblQ",
+              "skill": "thievery"
+            }
+          },
+          {
+            "label": "BZDEMI.SpecificRule.TricksterDemigod.Words",
+            "value": {
+              "featOne": "Compendium.pf2e.feats-srd.Item.B6HbYsLBWb1RR6Fx",
+              "featTwo": "Compendium.pf2e.feats-srd.Item.Dvz54d6aPhjsmUux",
+              "skill": "deception"
+            }
+          }
+        ],
+        "key": "ChoiceSet",
+        "flag": "trickery",
+        "prompt": "BZDEMI.SpecificRule.TricksterDemigod.Prompt"
+      },
+      {
+        "key": "ActiveEffectLike",
+        "mode": "upgrade",
+        "path": "system.skills.{item|flags.pf2e.rulesSelections.trickery.skill}.rank",
+        "value": 1
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "{item|flags.pf2e.rulesSelections.trickery.featOne}"
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "{item|flags.pf2e.rulesSelections.trickery.featTwo}"
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "ancestry": {
+      "name": "Demigod",
+      "slug": "demigod",
+      "uuid": "Compendium.battlezoo-ancestries-demigods.ancestries-pf2e.Item.gy8S8ePIbUSfrzHe"
+    },
+    "details": {
+      "publication": {
+        "remaster": true,
+        "title": "Battlezoo Ancestries: Demigods",
+        "license": "ORC"
+      }
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/heritage.svg",
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742310884599,
+    "modifiedTime": 1742596631779,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "nryc03FoNPtM8qkD",
+  "sort": 0,
+  "_key": "!items!nryc03FoNPtM8qkD"
+}

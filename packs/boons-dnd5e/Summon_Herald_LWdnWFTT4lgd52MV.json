@@ -1,0 +1,425 @@
+{
+  "folder": "gvStz2GTpViDaKve",
+  "name": "Summon Herald",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "system": {
+    "activities": {
+      "H3krEZrdsX0Ok5SE": {
+        "type": "save",
+        "name": "Courage (Depart)",
+        "_id": "H3krEZrdsX0Ok5SE",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": null,
+          "override": false,
+          "condition": "Depart"
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1",
+              "target": ""
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "ft",
+          "special": "",
+          "value": "120"
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": "creature",
+            "count": "",
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "damage": {
+          "parts": [
+            {
+              "custom": {
+                "enabled": false,
+                "formula": ""
+              },
+              "number": 6,
+              "denomination": "8",
+              "bonus": "",
+              "types": [
+                "force"
+              ]
+            }
+          ],
+          "onSave": "half"
+        },
+        "save": {
+          "ability": [
+            "dex"
+          ],
+          "dc": {
+            "calculation": "cha",
+            "formula": ""
+          }
+        },
+        "img": "",
+        "appliedEffects": []
+      },
+      "xy2FgynuLhijqRNx": {
+        "type": "heal",
+        "name": "Compassion (Depart)",
+        "_id": "xy2FgynuLhijqRNx",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": null,
+          "override": false,
+          "condition": "depart"
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1",
+              "target": ""
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "ft",
+          "special": "",
+          "value": "120"
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": "creature",
+            "count": "",
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "healing": {
+          "number": 6,
+          "denomination": "8",
+          "types": [
+            "healing"
+          ],
+          "custom": {
+            "enabled": false
+          },
+          "scaling": {
+            "number": 1
+          },
+          "bonus": ""
+        },
+        "img": "",
+        "appliedEffects": []
+      },
+      "be6Ylr6mJzASgREu": {
+        "type": "save",
+        "name": "Innovation (Depart)",
+        "_id": "be6Ylr6mJzASgREu",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": null,
+          "override": false,
+          "condition": "depart"
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1",
+              "target": ""
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "ft",
+          "special": "",
+          "value": "120"
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": "creature",
+            "count": "",
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "damage": {
+          "parts": [
+            {
+              "custom": {
+                "enabled": false,
+                "formula": ""
+              },
+              "number": 6,
+              "denomination": "20",
+              "bonus": "",
+              "types": [
+                "psychic"
+              ]
+            }
+          ],
+          "onSave": "half"
+        },
+        "save": {
+          "ability": [
+            "wis"
+          ],
+          "dc": {
+            "calculation": "cha",
+            "formula": ""
+          }
+        },
+        "img": "",
+        "appliedEffects": []
+      },
+      "eiZENgwTjK8mq11u": {
+        "type": "save",
+        "name": "Sagacity (Depart)",
+        "_id": "eiZENgwTjK8mq11u",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": null,
+          "override": false,
+          "condition": "depart"
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1",
+              "target": ""
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "ft",
+          "special": "",
+          "value": "120"
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": "creature",
+            "count": "",
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "damage": {
+          "parts": [
+            {
+              "custom": {
+                "enabled": false,
+                "formula": ""
+              },
+              "number": 6,
+              "denomination": "10",
+              "bonus": "",
+              "types": [
+                "acid",
+                "bludgeoning",
+                "cold",
+                "fire",
+                "force",
+                "lightning",
+                "necrotic",
+                "piercing",
+                "poison",
+                "psychic",
+                "radiant",
+                "slashing",
+                "thunder"
+              ]
+            }
+          ],
+          "onSave": "half"
+        },
+        "save": {
+          "ability": [
+            "con"
+          ],
+          "dc": {
+            "calculation": "cha",
+            "formula": ""
+          }
+        },
+        "img": "",
+        "appliedEffects": []
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "max": "1"
+    },
+    "description": {
+      "value": "<p>You can use a Magic action to conjure a divine herald to assist you battle. The herald occupies the space of a Huge creature and appears in an unoccupied space you can see within 120 feet of you. At the end of your next turn, you can command the herald to move up to 120 feet, and then the herald departs. Once you use this boon, you can't do so again until you finish a Long Rest.</p><p>The effects of this boon depend on the virtue with which you have the highest Renown Score.</p><ul><li>Courage: When the herald arrives, you and each creature you choose within 120 feet of the herald gains Advantage on attack rolls until the start of your next turn. When the herald departs, each creature you choose within 120 feet of herald takes [[/r 6d10[Force]]]{6d10 Force damage}, or half as much damage with a successful Dexterity saving throw (DC 8 plus your Charisma modifier and Proficiency Bonus).</li><li>Compassion: When the herald arrives, you and each creature you choose within 120 feet of the herald gains resistance to all damage until the start of your next turn. When the herald departs, each creature you choose within 120 feet of the herald regains 6d8 Hit Points.</li><li>Innovation: When the herald arrives, you and each creature you choose within 120 feet of the herald is infused with divine haste until the start of your next turn. While the effect lasts, each creature's Speed is doubled, and the creature gains a +2 bonus to Armor Class, has Advantage on Dexterity saving throws, and gains an additional action on its turn. This extra action can be used only to take the Attack (one attack only), Dash, Disengage, Hide, or Utilize action. When the herald departs, its knowledge overwhelms the minds of each creature you choose within 120 feet of the herald. Each creature takes [[/r 6d10[Psychic]]]{6d10 Psychic damage}, or half as much damage with a successful Wisdom saving throw (DC 8 plus your Charisma modifier and Proficiency Bonus). Also on a failed save, the creature can't take Reactions until the end of its next turn. If the saving throw fails by 5 or more, the creature gains the Stunned condition until the end of its next turn instead.</li><li>Sagacity: When the herald arrives, each creature you choose within 120 feet of the herald gains Truesight with a range of 120 feet until the end of its next turn. When the herald departs, each creature you choose within 120 feet of the herald takes [[/r 6d10]] damage of a type you choose, or half as much damage with a successful Constitution saving throw (DC 8 plus your Charisma modifier and Proficiency Bonus).</li><li>Trickery: When the herald arrives, you and each creature you choose within 120 feet of the herald can use a Reaction to either attempt to escape a grapple or move up to its Speed without provoking Opportunity Attacks. When the herald departs, you and each creature you choose within 120 feet of the herald is affected by the <em>@UUID[Compendium.dnd5e.spells.da0a1t2FqaTjRZGT]{Freedom of Movement}</em> spell until the end of its next turn.</li></ul>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 16,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Level 16+, Renown 45+",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": -100000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.7lPatRmXL73cTVRn",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742308693520,
+    "modifiedTime": 1742885868744,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "LWdnWFTT4lgd52MV",
+  "_key": "!items!LWdnWFTT4lgd52MV"
+}

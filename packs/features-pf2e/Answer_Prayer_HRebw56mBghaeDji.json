@@ -1,0 +1,55 @@
+{
+  "folder": "Trewex2aWDSfdjAC",
+  "name": "Answer Prayer",
+  "type": "action",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p><strong>Trigger</strong> One of your worshipers you can see within 120 feet prays to you for one of your demigod spells as a free action during their turn</p><p><strong>Requirements</strong> The triggering spell can't be a spell with no range that normally only functions only on the spellcaster or that creates an aura that moves with the spell's caster. The worshiper must be a fully autonomous creature, not a minion. The worshiper doesn't need to have the Cast a Spell activity, but the spell can be of no higher rank than half the worshiper's level rounded up</p><hr /><p><strong>Effect</strong> You grant your worshiper's prayer. They continue their prayer to Cast the Spell using your innate spell, Focus Point, or spell slot to do so, but they spend the appropriate actions to Cast a Spell or the spell fails. They use your spell attack roll or spell DC, if needed.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "actionType": {
+      "value": "reaction"
+    },
+    "actions": {
+      "value": null
+    },
+    "category": "offensive",
+    "deathNote": false
+  },
+  "img": "systems/pf2e/icons/actions/Reaction.webp",
+  "ownership": {
+    "default": 0,
+    "l2rbNx2a8f5ocpeL": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742768198517,
+    "modifiedTime": 1742768198517,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "HRebw56mBghaeDji",
+  "sort": 0,
+  "_key": "!items!HRebw56mBghaeDji"
+}

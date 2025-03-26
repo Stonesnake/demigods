@@ -1,0 +1,60 @@
+{
+  "folder": null,
+  "name": "Fatal Flaw",
+  "type": "feat",
+  "_id": "332EJ1btQIomN4gG",
+  "img": "icons/skills/wounds/injury-pain-body-orange.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>While you have some amount of divinity, and the combination of divine and mortal grants you great power and potential, you also possess a Fatal Flaw. Each demigod's heritage lists one or more flaws you can choose as your Fatal Flaw.</p>",
+      "chat": ""
+    },
+    "identifier": "fatal-flaw",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.UMjKFfwS8eR1Zl5o",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742840004710,
+    "modifiedTime": 1742883618491,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_key": "!items!332EJ1btQIomN4gG"
+}

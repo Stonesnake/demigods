@@ -1,0 +1,72 @@
+{
+  "name": "Kickstarter Announcement",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Kickstarter Announcement",
+      "type": "text",
+      "_id": "zwzKaWri9aT5swNB",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Back the <a href=\"https://www.kickstarter.com/projects/rollforcombat/battlezoo-ancestries-living-legends-for-5e-and-pathfinder\">Battlezoo Ancestries: Living Legends</a> Kickstarter today!</p><figure><img src=\"modules/battlezoo-ancestries-demigods/assets/kickstarter.webp\" /></figure>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "l2rbNx2a8f5ocpeL": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!GKz54IjSQWeo8tUg.zwzKaWri9aT5swNB"
+    }
+  ],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "flags": {
+    "core": {},
+    "battlezoo-ancestries-demigods": {
+      "isDemigod": true
+    },
+    "exportSource": {
+      "world": "battlezoo",
+      "system": "pf2e",
+      "coreVersion": "12.331",
+      "systemVersion": "6.10.2"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742968823496,
+    "modifiedTime": 1742968823496,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "GKz54IjSQWeo8tUg",
+  "sort": 0,
+  "_key": "!journal!GKz54IjSQWeo8tUg"
+}

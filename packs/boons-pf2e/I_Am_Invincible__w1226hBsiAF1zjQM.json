@@ -1,0 +1,79 @@
+{
+  "folder": "uVJuxO5TQmSHUPcX",
+  "name": "I Am Invincible!",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p><strong>Frequency</strong> once per day</p><p><strong>Trigger</strong> You would be affected by a hostile effect that doesn't come from another deity or an artifact.</p><hr /><p>You're a demigod, and one so powerful and brave, you are verging toward true divinity. So is it any wonder mere mortals can't harm you? You are temporarily immune to the triggering effect for 1 round; this completely protects you from the triggering effect for 1 round, though it doesn't protect anyone else.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 20
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "reaction"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Courage 20"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null,
+    "frequency": {
+      "max": 1,
+      "per": "day"
+    }
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742771883612,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "w1226hBsiAF1zjQM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!w1226hBsiAF1zjQM"
+}

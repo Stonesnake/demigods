@@ -1,0 +1,101 @@
+{
+  "folder": "iei08bfiWQ6qPp2z",
+  "name": "Mortal Roots",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>No matter how far you progress in your growth as a deity, you'll never forget your mortal roots. You gain the @UUID[Compendium.pf2e.feats-srd.Item.ihN8gkHSdPG9Trte]{Adopted Ancestry} general feat for the ancestry you chose for the part mortal ancestry ability, and you also gain one 1st-level ancestry feat from that ancestry.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.pf2e.feats-srd.Item.ihN8gkHSdPG9Trte"
+      },
+      {
+        "adjustName": false,
+        "choices": {
+          "filter": [
+            "item:level:1",
+            "item:category:ancestry",
+            "item:trait:{actor|system.details.ancestry.adopted}",
+            {
+              "not": "item:trait:lineage"
+            }
+          ],
+          "itemType": "feat"
+        },
+        "flag": "feat",
+        "key": "ChoiceSet",
+        "prompt": "PF2E.SpecificRule.AncestralParagon.Prompt"
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "{item|flags.pf2e.rulesSelections.feat}"
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 5
+    },
+    "category": "ancestry",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "part mortal ancestry ability"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742322552871,
+    "modifiedTime": 1742598050839,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "fShxYAF6o5eL5iQl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!fShxYAF6o5eL5iQl"
+}

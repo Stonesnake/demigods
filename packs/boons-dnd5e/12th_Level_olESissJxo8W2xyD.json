@@ -1,0 +1,22 @@
+{
+  "name": "12th Level",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "olESissJxo8W2xyD",
+  "description": "",
+  "sort": 350000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742306581268,
+    "modifiedTime": 1742883450437,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_key": "!folders!olESissJxo8W2xyD"
+}

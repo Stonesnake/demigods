@@ -1,0 +1,78 @@
+{
+  "folder": "tbE7wVmmLga1YaDR",
+  "name": "Summon Herald",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p><strong>Frequency</strong> once per day</p><hr /><p>You call upon a divine herald to appear within 100 feet and assist you in battle until the end of your next turn. The herald occupies the space of a Huge creature and has a Speed of 60 feet. The effects of this spell depend on your highest virtue.</p><ul><li><p><strong>Courage:</strong></p><ul><li><strong>Arrive</strong> <em>Aura of the Warrior</em> While within 100 feet of the herald, you and your allies gain the champion's @UUID[Compendium.pf2e.actionspf2e.Item.EAP98XaChJEbgKcK]{Retributive Strike} reaction</li><li><strong>Depart</strong> <em>Weapon Hurricane</em> The herald casts 5th-rank @UUID[Compendium.pf2e.spells-srd.Item.8M03UxGXjYyDFAoy] in a @Template[type:cone|distance:100], using d12 for the die size.</li></ul></li><li><p><strong>Compassion:</strong></p><ul><li><strong>Arrive</strong> <em>Aura of the Savior</em> While within 100 feet of the herald, you and your allies gain the champion's @UUID[Compendium.pf2e.actionspf2e.Item.tuZnRWHixLArvaIf]{Glimpse of Redemption} reaction</li><li><strong>Depart</strong> <em>Compassionate Healing</em> The herald casts the 3-action version of 5th-rank @UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs] with a radius of 100 feet. This spell targets only you and your allies.</li></ul></li><li><p><strong>Innovation:</strong></p><ul><li><strong>Arrive</strong> <em>Aura of the Genius</em> While within 100 feet of the herald, you and your allies are @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened}, and you can use the additional action to @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}, @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}, Step, Stride, or Strike</li><li><strong>Depart</strong> <em>Overwhelming Knowledge</em> The herald sends too much information into the minds of all foes within 100 feet. They must attempt a @Check[will|against:spell] save against your spell DC. On a critical success they're unaffected, on a success they're @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} for 1 round, on a failure they're @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 2} for 1 round and stupefied 1 for 1 minute, and on a critical failure they're @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 4} for 1 round and stupefied 2 for 1 minute.</li></ul></li><li><p><strong>Sagacity:</strong></p><ul><li><strong>Arrive</strong> <em>Aura of the Seer</em> Everything within 100 feet of the herald is revealed as it truly is. The GM rolls a secret counteract check against any illusion, morph, or polymorph effect in the area, but only for the purpose of determining whether the truth is revealed (for instance, if the check succeeds against a polymorph spell, everyone can see the creature's true form while it's in the aura, but you don't end the polymorph spell)</li><li><strong>Depart</strong> <em>Seer's Vengeance</em> The herald casts 4th-rank @UUID[Compendium.pf2e.spells-srd.Item.hVU9msO9yGkxKZ3J] in a @Template[type:emanation|distance:100], except that the magic only damages those who took actions against you or your allies while the herald was present, and for each of the affected creatures with a weakness to a specific damage type, the damage type dealt to that creature changes from spirit to the damage type of their highest weakness (weaknesses to anything other than damage types don't alter seer's vengeance).</li></ul></li><li><p><strong>Trickery:</strong></p><ul><li><strong>Arrive</strong> <em>Aura of the Trickster</em> While within 100 feet of the herald, you and your allies gain the champion's @Compendium[pf2e.actionspf2e.Liberating Step]{Liberating Step} reaction</li><li><strong>Depart</strong> <em>Trickster's Freedom</em> The herald casts @UUID[Compendium.pf2e.spells-srd.Item.aqRYNoSvxsVfqglH], but it affects you and all your allies within 100 feet and the duration is reduced to 3 rounds.</li></ul></li></ul>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "concentrate",
+        "demigod",
+        "incarnate",
+        "manipulate"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 16
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "action"
+    },
+    "actions": {
+      "value": 3
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null,
+    "frequency": {
+      "max": 1,
+      "per": "day"
+    }
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742771800350,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "5Q2hd9b6eoJhSGU5",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!5Q2hd9b6eoJhSGU5"
+}

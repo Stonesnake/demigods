@@ -1,0 +1,22 @@
+{
+  "name": "Flaws",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "4PNksXlFUmJWpopl",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742840233404,
+    "modifiedTime": 1742840233448,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_key": "!folders!4PNksXlFUmJWpopl"
+}

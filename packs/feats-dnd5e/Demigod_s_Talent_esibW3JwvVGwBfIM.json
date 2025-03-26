@@ -1,0 +1,60 @@
+{
+  "folder": "mnT0vfPF0lZTdSQs",
+  "name": "Demigod's Talent",
+  "type": "feat",
+  "img": "icons/magic/light/orbs-firefly-hand-yellow.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>As a demigod, it's easy for you to align to the cause of your followers, essentially becoming a cleric or paladin of yourself. When you multiclass into the Cleric or Paladin class, you may ignore the ability score prerequisite for that class. In addition, you can use your choice Intelligence, Wisdom, or Charisma as the spellcasting ability for any feature granted by that class, instead of the class's standard spellcasting ability.</p><p><strong>Special.</strong> With the GM's permission, you can also use this feat to help you multiclass into a different class, if that class would be thematically appropriate to your concerns as a demigod. For example, if you are a demigod of trickery, you might want to multiclass into the Rogue class, or into the Wizard class if you are a demigod of innovation.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 8,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Level 8+, Demigod species",
+    "type": {
+      "value": "feat",
+      "subtype": "general"
+    }
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.dnNgaKoEB9qcmuZD",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742306655557,
+    "modifiedTime": 1742881753223,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "esibW3JwvVGwBfIM",
+  "_key": "!items!esibW3JwvVGwBfIM"
+}

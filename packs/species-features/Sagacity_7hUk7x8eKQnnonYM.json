@@ -1,0 +1,60 @@
+{
+  "folder": "p2P8Xz2UVJOKod8N",
+  "name": "Sagacity",
+  "type": "feat",
+  "img": "icons/tools/laboratory/alembic-glass-ball-blue.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Sagacity is the virtue of shrewd counselors, mentors, and decision-makers who either dispense wisdom to those who need it or use that same wisdom to guide their own actions. While demigods focusing on sagacity sometimes act behind the scenes, they can accomplish so much more than what they do directly by guiding others or taking small actions that lead to rippling consequences.</p><p><strong>Real-World Examples:</strong> Examples of deities and demigods demonstrating sagacity include Krishna guiding an uncertain Arjuna in the Bhagavad Gita, Athena's guidance to Telemachos in the Odyssey while disguised as Mentor (the namesake of the word \"mentor\").</p><p><strong>Associated Skills:</strong> Insight, Religion, Survival</p><p><strong>Associated Domain:</strong> Life or Light</p>",
+      "chat": ""
+    },
+    "identifier": "virtue",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 1,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Demigod species",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.CJtMqdO3zQMIIu1V",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742307717151,
+    "modifiedTime": 1742846477994,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "7hUk7x8eKQnnonYM",
+  "_key": "!items!7hUk7x8eKQnnonYM"
+}

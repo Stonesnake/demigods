@@ -1,0 +1,132 @@
+{
+  "folder": "oWGQ8kZoGzqHRWpA",
+  "name": "Incarnate Avatar",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "system": {
+    "activities": {
+      "7awPdWBnkspWXxwJ": {
+        "type": "utility",
+        "name": "Incarnate Avatar",
+        "_id": "7awPdWBnkspWXxwJ",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "minute",
+          "concentration": false,
+          "override": false,
+          "value": "1"
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [
+            {
+              "period": "lr"
+            }
+          ],
+          "max": "1"
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "name": "",
+          "formula": ""
+        },
+        "img": "",
+        "appliedEffects": []
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>You can use a Magic action transform into an avatar of your divine might. You remain in your avatar form for 1 minute, until you are incapacitated, or until you use a Bonus Action to return to your normal form. While the transformation lasts, you gain the following benefits:</p><ul><li>If your size was originally Medium or Small, your size increases to Large.</li><li>You gain temporary Hit Points equal to twice your level.</li><li>You gain a Fly Speed equal to your Speed.</li></ul><p>Choose either Necrotic or Radiant. You gain Resistance to the chosen damage type. In addition, your Melee weapon attacks and Unarmed Strikes deal an extra [[/r 1d6]] damage of the chosen type. Once you use this boon, you can't do so again until you finish a Long Rest.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Level 20, Renown 65+",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.uW1XnEvRdJgUSm3g",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742308143202,
+    "modifiedTime": 1742886091264,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "CqH7elgjlGDpPfYl",
+  "_key": "!items!CqH7elgjlGDpPfYl"
+}

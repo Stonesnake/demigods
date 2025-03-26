@@ -1,0 +1,71 @@
+{
+  "folder": null,
+  "name": "Savior Demigod",
+  "type": "heritage",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Your patience, benevolence, and empathy lead you to offer kindness and succor to all around you, causing you to be labeled a savior or saint, possibly even before you gained your divinity. You overflow with the virtue of compassion. You're trained in the Medicine skill, or in your choice of skill if you were already trained in Medicine, and you gain the @UUID[Compendium.pf2e.feats-srd.Item.wYerMk6F1RZb0Fwt]{Battle Medicine} skill feat. You also gain a +1 status bonus to Hit Points healed with Battle Medicine or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. The bonus also applies to the initial healing from any healing spell; this bonus only applies once per creature for a given spell, even if the spell heals the creature more than once.</p><p>Your fatal flaw is your choice of hesitation, hubris, or vulnerability.</p>"
+    },
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "upgrade",
+        "path": "system.skills.medicine.rank",
+        "value": 1
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.pf2e.feats-srd.Item.wYerMk6F1RZb0Fwt"
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "ancestry": {
+      "name": "Demigod",
+      "slug": "demigod",
+      "uuid": "Compendium.battlezoo-ancestries-demigods.ancestries-pf2e.Item.gy8S8ePIbUSfrzHe"
+    },
+    "details": {
+      "publication": {
+        "remaster": true,
+        "title": "Battlezoo Ancestries: Demigods",
+        "license": "ORC"
+      }
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/heritage.svg",
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742310882268,
+    "modifiedTime": 1742596158249,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "mKotF9rDTgxtgsUJ",
+  "sort": 300000,
+  "_key": "!items!mKotF9rDTgxtgsUJ"
+}

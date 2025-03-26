@@ -1,0 +1,77 @@
+{
+  "folder": "NRYCFsG3VEY9HV3w",
+  "name": "Rebuke Anathema",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p><strong>Frequency</strong> once per hour</p><p><strong>Trigger</strong> A creature within 30 feet actively performs a unique act anathema to you</p><hr /><p>Your inherent revulsion to your anathema allows you to rebuke those who dare perform acts of anathema in your presence. The triggering creature takes @Damage[(floor((@actor.level - 2)/2)d6)[mental]] damage with a @Check[will|against:spell|basic] save against your spell DC. If it fails, it is also @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} for 1 round. The damage increases by 1d6 at 14th level and every two levels thereafter, to a maximum of 9d6 at 20th level. However, if the target critically succeeds at their saving throw, their brazen anathema and the lack of consequences rebound back on you, and you're harmed by your own revulsion. In that case, you take the full mental damage and are stupefied without a saving throw.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "concentrate",
+        "demigod",
+        "manipulate"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 12
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "reaction"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null,
+    "frequency": {
+      "max": 1,
+      "per": "PT1H"
+    }
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742771833485,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "Zsr3AoPk4XfgN8up",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!Zsr3AoPk4XfgN8up"
+}

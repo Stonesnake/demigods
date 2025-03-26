@@ -1,0 +1,124 @@
+{
+  "folder": "GavBwKzUwhqWNccE",
+  "name": "Deity's Demand",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "system": {
+    "activities": {
+      "YG4n9jBUfOn2ppis": {
+        "type": "cast",
+        "spell": {
+          "uuid": "Compendium.dnd5e.spells.Item.GtGjNjPBgUHxGYAD",
+          "challenge": {
+            "attack": null,
+            "save": null,
+            "override": false
+          },
+          "level": null,
+          "properties": [
+            "vocal",
+            "somatic",
+            "material"
+          ],
+          "spellbook": true
+        },
+        "_id": "YG4n9jBUfOn2ppis",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>You can easily contact your worshipers to send them orders and receive reports. When necessary, you can even give them a stronger mental push to overcome their reluctance. Once per minute, you can cast Sending, though only to contact one of your worshipers. Once per hour, as part of sending a message to one of your worshipers, you can also cast <em>@UUID[Compendium.dnd5e.spells.Item.zMAWdyc8UVb37BK4]{Suggestion}</em>, targeting that worshiper. You don't have to be on the same plane of existence to contact your worshipers, and you don't need to see the worshiper to target them with <em>Suggestion</em>—your bond as deity and follower more than suffices.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 18,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Level 18+, Renown 55+",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.3GOuqkMNZmupwNMD",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742308428872,
+    "modifiedTime": 1742885960126,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "9j9beT4J8TmTyHEV",
+  "_key": "!items!9j9beT4J8TmTyHEV"
+}

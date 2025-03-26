@@ -1,0 +1,108 @@
+{
+  "folder": "fk4p4M9agNuvwB7F",
+  "name": "Larger Than Life",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Powerful demigods, like deities and their avatars, are sometimes larger than life. You become Large (if you were already Large, you remain Large but grow a bit larger within the size category), gain a reach of 10 feet, gain a +2 status bonus to your melee damage, and are constantly @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}. You can shrink back to your original size to appear closer to a more typical mortal as a two action activity, which has the concentrate trait, in which case you also lose the reach, status bonus, and clumsy condition. You remain that way until you use the two action activity again to return to your new larger size.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "key": "RollOption",
+        "option": "larger-than-life",
+        "toggleable": true,
+        "value": true
+      },
+      {
+        "key": "CreatureSize",
+        "reach": {
+          "override": 10
+        },
+        "resizeEquipment": true,
+        "value": "large",
+        "predicate": [
+          "larger-than-life"
+        ]
+      },
+      {
+        "inMemoryOnly": true,
+        "key": "GrantItem",
+        "uuid": "Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm",
+        "predicate": [
+          "larger-than-life"
+        ]
+      },
+      {
+        "key": "FlatModifier",
+        "selector": "damage",
+        "type": "status",
+        "value": 2,
+        "predicate": [
+          "item:melee",
+          "larger-than-life"
+        ],
+        "hideIfDisabled": true
+      }
+    ],
+    "slug": "larger-than-life",
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 13
+    },
+    "category": "ancestry",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742322552871,
+    "modifiedTime": 1742599439115,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "oaSAd6HYvpFuqQHa",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!oaSAd6HYvpFuqQHa"
+}

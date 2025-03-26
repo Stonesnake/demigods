@@ -1,0 +1,75 @@
+{
+  "folder": "youGOMv2VJucg6Vh",
+  "name": "Divine Sense",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Your connection to your own divinity allows you to notice beings and phenomena composed of spiritual essence. While you're exploring but not @UUID[Compendium.pf2e.actionspf2e.Item.TiNDYUGlMmxzxBYU]{Searching}, the GM rolls a secret check for you to find haunts that usually require Searching, as well as spirits and beings made entirely of spiritual essence such as celestials, fiends, and monitors. If the spiritual being is disguised as a mortal or other non-spiritual being, your divine sense doesn't alert you to their presence unless it's also high enough to defeat their disguise.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 4
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Sagacity 4"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742768292616,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "N0aBdTsVxIZ5mpj3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!N0aBdTsVxIZ5mpj3"
+}

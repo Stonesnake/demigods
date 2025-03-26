@@ -1,0 +1,91 @@
+{
+  "folder": "UiUt43DOHTkZah2I",
+  "name": "Demigod's Talent",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>As a demigod, it's easy for you to align to the cause of a champion or perfect your favored weapon. You gain @UUID[Compendium.pf2e.feats-srd.Item.0YjetnLVIUz9zQt5]{Champion Dedication} (as a champion of yourself) or a dedication for an archetype directly matching your favored weapon (for instance, @UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.o71hqcfzhCKXcSml] matches for a bow favored weapon, and @UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.RoF5NOFBefXAPftS] matches for a two-handed favored weapon, but @UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.O9P1YgtiCgHlPNp5] doesn't match for a scimitar even though it has a feat involving scimitars since it isn't the main focus of the archetype). If you choose Champion Dedication, you don't need to meet the attribute modifier prerequisites.</p><hr /><p><strong>Special</strong> With the GM's permission, you can also choose @UUID[Compendium.pf2e.feats-srd.Item.qvWmW5JWpVBDyGqe]{Exemplar Dedication} with this feat, using your own divine spark, though in that case the feat is rare. This is a very thematic choice, but there are mechanical reasons the GM might not allow it even though they allowed a demigod character, so you might want to talk to your GM first about Exemplar Dedication in case they have any changes to it in their game.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "adjustName": false,
+        "choices": {
+          "filter": [
+            "item:level:2",
+            "item:category:class",
+            "item:trait:dedication",
+            "item:trait:multiclass"
+          ],
+          "itemType": "feat"
+        },
+        "flag": "feat",
+        "key": "ChoiceSet",
+        "prompt": "PF2E.SpecificRule.Multitalented.Prompt"
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "{item|flags.pf2e.rulesSelections.feat}"
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 9
+    },
+    "category": "ancestry",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742322552871,
+    "modifiedTime": 1742598361027,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "ad1SwrPABx0ecHUA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!ad1SwrPABx0ecHUA"
+}

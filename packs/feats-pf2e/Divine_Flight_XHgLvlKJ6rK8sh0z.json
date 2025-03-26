@@ -1,0 +1,80 @@
+{
+  "folder": "UiUt43DOHTkZah2I",
+  "name": "Divine Flight",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p><strong>Frequency</strong> once per day</p><hr /><p>Whether you grow wings, lift yourself with currents of air, alter gravity, or through some other means related to your religion and domains, you gain the power of flight temporarily. You gain a fly Speed equal to your land Speed for 10 minutes. Divine Flight might gain additional traits depending on how you describe it, as determined by the GM (for instance, growing wings would have the morph trait and traveling on an air current would have the air trait).</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod",
+        "divine"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 9
+    },
+    "category": "ancestry",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "action"
+    },
+    "actions": {
+      "value": 2
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null,
+    "frequency": {
+      "max": 1,
+      "per": "day"
+    },
+    "selfEffect": {
+      "uuid": "Compendium.battlezoo-ancestries-demigods.effects-pf2e.Item.0t0MpbYJjyDe3c2g",
+      "name": "Effect: Divine Flight"
+    }
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742322552871,
+    "modifiedTime": 1742599492666,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "XHgLvlKJ6rK8sh0z",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!XHgLvlKJ6rK8sh0z"
+}

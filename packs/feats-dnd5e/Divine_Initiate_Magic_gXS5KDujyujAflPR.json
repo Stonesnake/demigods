@@ -1,0 +1,88 @@
+{
+  "folder": "mnT0vfPF0lZTdSQs",
+  "name": "Divine Initiate Magic",
+  "type": "feat",
+  "img": "icons/magic/light/explosion-star-glow-blue-purple.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>You've mastered special spells that match the ethos of your religion, which you can grant to your loyal clerics and cast on your own each day. You gain the following benefits.</p><p><strong>Ability Score Increase.</strong> Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.</p><p><strong>Initiate Magic.</strong> Choose one 2nd-level or lower spell and one 1st-level or lower spell from any spell list. You always have these spells prepared, and you can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level.</p><p><strong>Customized Domain.</strong> You can choose to replace any Domain spell granted to your clerics with one of the spells from this feat, provided the new spell is of the same level or lower.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [
+      {
+        "_id": "uUIXyhjE3br1ZI6Q",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "cap": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "locked": [
+            "str",
+            "dex",
+            "con"
+          ],
+          "points": 1
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      }
+    ],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 8,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Level 8+, Demigod species",
+    "type": {
+      "value": "feat",
+      "subtype": "general"
+    }
+  },
+  "effects": [],
+  "sort": 250000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.hRZckxiiYrYhrJvJ",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742306661682,
+    "modifiedTime": 1742882135301,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "gXS5KDujyujAflPR",
+  "_key": "!items!gXS5KDujyujAflPR"
+}

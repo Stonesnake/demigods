@@ -1,0 +1,78 @@
+{
+  "folder": "uVJuxO5TQmSHUPcX",
+  "name": "Incarnate Avatar",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p><strong>Frequency</strong> once per day</p><hr /><p>You transform into an avatar of your divine might. When you first take this feat, work with your GM to design your avatar; you can either choose to use the statistics of one of the avatars that already exists, potentially reflavoring the attacks to better fit your own appearance and theme, or work with your GM to choose an avatar in line with the power level of those options. You transform into your avatar form for 1 minute, with the effects of the @UUID[Compendium.pf2e.spells-srd.ckUOoqOM7Kg7VqxB]{Avatar} spell.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "concentrate",
+        "demigod",
+        "manipulate",
+        "polymorph"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 20
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "action"
+    },
+    "actions": {
+      "value": 2
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null,
+    "frequency": {
+      "max": 1,
+      "per": "day"
+    }
+  },
+  "_id": "835doDlzzVxY43SY",
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742771907592,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!835doDlzzVxY43SY"
+}

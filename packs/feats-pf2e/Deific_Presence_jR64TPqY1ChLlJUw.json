@@ -1,0 +1,139 @@
+{
+  "folder": "iei08bfiWQ6qPp2z",
+  "name": "Deific Presence",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Your quasi divine presence is so strong that it's nearly a physical aura, sending awe through your allies and fear through your enemies. You become trained in your choice of Diplomacy or Intimidation. If you are trained in Diplomacy (or later become trained in Diplomacy), you gain the @UUID[Compendium.pf2e.feats-srd.Item.KpFetnUqTiweypZk]{Group Impression} skill feat. If you are trained in Intimidation (or later become trained in Intimidation), you gain the @UUID[Compendium.pf2e.feats-srd.Item.gUqvezs2zzoTXFAI]{Group Coercion} and @UUID[Compendium.pf2e.feats-srd.Item.xQMz6eDgX75WX2ce]{Intimidating Glare} skill feats.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "adjustName": false,
+        "choices": [
+          {
+            "label": "PF2E.Skill.Diplomacy",
+            "predicate": [
+              "skill:diplomacy:rank:0"
+            ],
+            "value": "diplomacy"
+          },
+          {
+            "label": "PF2E.Skill.Intimidation",
+            "predicate": [
+              "skill:intimidation:rank:0"
+            ],
+            "value": "intimidation"
+          }
+        ],
+        "flag": "skill",
+        "key": "ChoiceSet",
+        "prompt": "PF2E.SpecificRule.Prompt.Skill"
+      },
+      {
+        "key": "ActiveEffectLike",
+        "mode": "upgrade",
+        "path": "system.skills.{item|flags.pf2e.rulesSelections.skill}.rank",
+        "value": 1
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.pf2e.feats-srd.Item.KpFetnUqTiweypZk",
+        "predicate": [
+          {
+            "gte": [
+              "skill:diplomacy:rank",
+              1
+            ]
+          }
+        ],
+        "reevaluateOnUpdate": true
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.pf2e.feats-srd.Item.gUqvezs2zzoTXFAI",
+        "predicate": [
+          {
+            "gte": [
+              "skill:intimidation:rank",
+              1
+            ]
+          }
+        ],
+        "reevaluateOnUpdate": true
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.pf2e.feats-srd.Item.xQMz6eDgX75WX2ce",
+        "reevaluateOnUpdate": true,
+        "predicate": [
+          {
+            "gte": [
+              "skill:intimidation:rank",
+              1
+            ]
+          }
+        ]
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 5
+    },
+    "category": "ancestry",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742322552871,
+    "modifiedTime": 1742597687006,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "jR64TPqY1ChLlJUw",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!jR64TPqY1ChLlJUw"
+}

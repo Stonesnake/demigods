@@ -1,0 +1,22 @@
+{
+  "name": "8th Level",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "mnT0vfPF0lZTdSQs",
+  "description": "",
+  "sort": 300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742306526514,
+    "modifiedTime": 1742846064501,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_key": "!folders!mnT0vfPF0lZTdSQs"
+}

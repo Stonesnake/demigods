@@ -1,0 +1,71 @@
+{
+  "folder": "TjMSsiZp3Haa9jad",
+  "name": "Deity's Demand",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You can easily contact your worshipers to send them orders and receive reports, and when necessary, you can give them a stronger mental push to overcome their reluctance. Once per minute, you can use @UUID[Compendium.pf2e.spells-srd.Item.R9xqCBblkS5KE4y7] as a divine innate spell though only to contact one of your worshipers; once per hour, when you do, you can instead send a telepathic demand to your worshiper. You can contact your worshipers using Deity's Demand even if they're on a different planet or even a different plane, and you don't need to have been in telepathic contact with them before to issue a telepathic demand—your bond as deity and follower more than suffices.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 18
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742771667902,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "Crbkfe5sDsCkn8xD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!Crbkfe5sDsCkn8xD"
+}

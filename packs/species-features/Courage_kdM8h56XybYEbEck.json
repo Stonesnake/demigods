@@ -1,0 +1,60 @@
+{
+  "folder": "p2P8Xz2UVJOKod8N",
+  "name": "Courage",
+  "type": "feat",
+  "img": "icons/magic/defensive/shield-barrier-deflect-gold.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Courage is the virtue of demigods who conquer every challenge and fight on against impossible odds. Seemingly invincible, these demigods are sometimes as much conquering heroes akin to modern day star athletes as they are figures of religious and spiritual reverence, but that does nothing to dim the power of their followers' belief</p><p><strong>Real-World Examples:</strong> Examples of deities and demigods demonstrating courage include Herakles's labors, Momotaro fighting the oni, or Thor battling against the jotunn and dying to defeat the world serpent Jormungand.</p><p><strong>Associated Skills:</strong> Athletics, Intimidation, Performance</p><p><strong>Associated Domain:</strong> War</p>",
+      "chat": ""
+    },
+    "identifier": "virtue",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 1,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Demigod species",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.a5Z7tnvZd9CeRbJR",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742307714097,
+    "modifiedTime": 1742846447590,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "kdM8h56XybYEbEck",
+  "_key": "!items!kdM8h56XybYEbEck"
+}

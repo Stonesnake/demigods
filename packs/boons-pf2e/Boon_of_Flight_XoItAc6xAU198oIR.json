@@ -1,0 +1,77 @@
+{
+  "folder": "7cAC4tgYx9VFdrMM",
+  "name": "Boon of Flight",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Your divine power allows you to fly, using a means appropriate for your religion (wings, currents of air, gravity control, jets of flame, and so on). You gain a fly Speed equal to your land Speed.</p><hr /><p><strong>Special</strong> If you had the @UUID[Compendium.battlezoo-ancestries-demigods.feats-pf2e.Item.XHgLvlKJ6rK8sh0z]{Divine Flight} ancestry feat, the @UUID[Compendium.battlezoo-ancestries-demigods.feats-pf2e.Item.nBNT5yvIKtwwNrCt]{Perpetual Flight} ancestry feat, or both, you can immediately retrain them into different demigod ancestry feats.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "key": "BaseSpeed",
+        "selector": "fly",
+        "value": "@actor.attributes.speed.total"
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 14
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742769584549,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "XoItAc6xAU198oIR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!XoItAc6xAU198oIR"
+}

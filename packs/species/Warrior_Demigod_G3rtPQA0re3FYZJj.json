@@ -1,0 +1,151 @@
+{
+  "folder": null,
+  "name": "Warrior Demigod",
+  "type": "race",
+  "img": "icons/weapons/swords/sword-gold-holy.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>The least of lesser deities, demigods are fledglings who must grow into their divine abilities before they can enact the kind of miracles associated with even the least of true gods. And yet, they can grow their faith and their power to become something more.</em></p><p>@UUID[Compendium.battlezoo-ancestries-demigods.journals-dnd5e.JournalEntry.CqQoQpvqEOehOwgL.JournalEntryPage.ITImTyYjZ91IQtQx]{Demigod Ancestry}</p><p>Your bravery, might, and skill at arms allowed you to continue to fight and defeat foes even when the situation seemed impossible, causing you to be labeled as a true warrior or hero, possibly even before you gained your divinity. You overflow with the virtue of courage. You have the following benefits.</p><p><strong>Creature Type</strong>: Special (see Part Mortal trait)</p><p><strong>Size</strong>: Special (see Part Mortal trait)</p><p><strong>Speed</strong>: Special (see Part Mortal trait)</p><p>As a Demigod, you have these special traits.</p><p><strong>Darkvision.</strong> You have Darkvision with a range of 60 feet.</p><p><strong>Fatal Flaw.</strong> While you have some amount of divinity, and the combination of divine and mortal grants you great power and potential, you also possess a Fatal Flaw. Your Fatal Flaw is your choice of Hubris or Vulnerability.</p><ul><li><strong>Hubris</strong>. As a demigod, you are more than a mere mortal, and your divinity allows you to gain worshipers, build up a religion, and even grant spells. You're amazing! Unfortunately, your pride sometimes causes you to make dangerous mistakes, though fortunately, your power might be enough to get you out of them. You can never gain Advantage on Wisdom saving throws.</li><li><strong>Vulnerability</strong>. While you possess the limitless potential of the immortal, ultimately your mortality mixes in a fatal vulnerability that portends your undoing someday. Whether that's a certain spot on your body that's more vulnerable or a particular substance that can slay you, the end result is that you're just a little less sturdy. You can never gain Advantage on Constitution saving throws.</li></ul><p><strong>Part Mortal.</strong> You are part mortal and part deity, and you might have been originally born fully mortal. Choose a mortal species. Your Creature Type, Size, and Speed are the same as the species you choose. However, you still aren't quite a member of your mortal species, even if you were born as one. You don't gain any of the other traits of that species, and you can't select feats that have your mortal species as a prerequisite, unless you first take the @UUID[Compendium.battlezoo-ancestries-demigods.feat-dnd5e.Item.6wOEUZ5mQM4bxhOD]{Mortal Roots} demigod species feat.</p><p><strong>Quasi Divine.</strong> You might not be a full deity, but you're still a demigod, so you have a bit of divinity that grows stronger as you do and increases as faith in you swells. Each time you finish a Long Rest, choose one cantrip from the Cleric spell list. You learn that cantrip until you use this trait again. Your spellcasting ability for the spell, as well as for any spell you gain from a demigod species feat, is Intelligence, Wisdom, or Charisma (choose the ability when you select this species).</p><p><strong>Divine Toughness.</strong> Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level.</p><p><strong>Favored Weapon.</strong> You gain the @UUID[Compendium.battlezoo-ancestries-demigods.feat-dnd5e.Item.FRhmd6Cf354s9FA2]{Favored Weapon Familiarity} demigod feat.</p><hr /><p><em>Note: The base ancestry defaults selected for this Species are set to the Human species.</em></p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [
+      {
+        "type": "Size",
+        "_id": "B1EEAfRFxFBBXQAM",
+        "configuration": {
+          "sizes": [
+            "med"
+          ]
+        },
+        "level": 0,
+        "value": {}
+      },
+      {
+        "type": "Trait",
+        "configuration": {
+          "grants": [
+            "languages:standard:common"
+          ],
+          "allowReplacements": false,
+          "choices": [],
+          "mode": "default"
+        },
+        "_id": "L9UksmKK8CF9q49I",
+        "value": {
+          "chosen": []
+        },
+        "level": 0
+      },
+      {
+        "_id": "88ThQrIW8ek95E5r",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.battlezoo-ancestries-demigods.species-feature-dnd5e.Item.j6dxYVpeWpbX9qur",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-demigods.species-feature-dnd5e.Item.knxOyv1BhjZqIg9G",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-demigods.species-feature-dnd5e.Item.332EJ1btQIomN4gG",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-demigods.feat-dnd5e.Item.FRhmd6Cf354s9FA2",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-demigods.species-feature-dnd5e.Item.NUh7larP3LHdjj9d",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0
+      },
+      {
+        "_id": "nGiOTf8WDh6cvO8C",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "0": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.battlezoo-ancestries-demigods.species-feature-dnd5e.Item.P71ysuohQnJDGBKl"
+            },
+            {
+              "uuid": "Compendium.battlezoo-ancestries-demigods.species-feature-dnd5e.Item.Sgl091dfCxoqL7Ra"
+            }
+          ],
+          "spell": null,
+          "type": null,
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "",
+        "hint": ""
+      }
+    ],
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 30,
+      "units": "ft",
+      "hover": false
+    },
+    "senses": {
+      "darkvision": 60,
+      "blindsight": null,
+      "tremorsense": null,
+      "truesight": null,
+      "units": "ft",
+      "special": ""
+    },
+    "type": {
+      "value": "humanoid"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.battlezoo-ancestries-demigods.species-dnd5e.Item.C0CodjqU2Z9jt76K",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742845774746,
+    "modifiedTime": 1742884332744,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "sort": 112500,
+  "_id": "G3rtPQA0re3FYZJj",
+  "_key": "!items!G3rtPQA0re3FYZJj"
+}

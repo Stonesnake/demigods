@@ -1,0 +1,60 @@
+{
+  "folder": "yh2Ezyz8q9P2qjR6",
+  "name": "Keeper of Prayers",
+  "type": "feat",
+  "img": "icons/magic/holy/prayer-hands-glowing-yellow-white.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>You can hear the prayers of your worshipers, and occasionally you answer them. Any time one of your worshipers prays to you with a request, you gain a general sense of what they asked for. You don't hear the exact words of their prayer, as this would be too much for your mind to process with a large enough religion praying at once, and this only transmits heartfelt prayers to help grant a worshiper's true needs and desires; it can't be used to transmit communications or reports. Once per 10 minutes, you can use an action to send a message of up to 25 words to a worshiper in response to one of these prayers made within the past 10 minutes. You can do so regardless of the worshiper's location, even if they aren't on the same plane of existence.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 16,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Level 16+, Demigod species",
+    "type": {
+      "value": "feat",
+      "subtype": "general"
+    }
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.nCHqqI8Tk3hV2l3f",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742306621849,
+    "modifiedTime": 1742882955380,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "ZRsPT9MDB7zzW53h",
+  "_key": "!items!ZRsPT9MDB7zzW53h"
+}

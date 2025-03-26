@@ -1,0 +1,115 @@
+{
+  "folder": "fSo31GUbEszj36u2",
+  "name": "Larger Than Life",
+  "type": "feat",
+  "img": "icons/magic/unholy/silhouette-evil-horned-giant.webp",
+  "system": {
+    "activities": {
+      "tMtkiLlUN6CePEuI": {
+        "type": "utility",
+        "name": "Larger Than Life",
+        "_id": "tMtkiLlUN6CePEuI",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Powerful demigods, like deities and their avatars, are sometimes larger than life. You become Large (if you were already Large, you remain Large but grow a bit larger within the size category). While you are Large, you gain a reach of 10 feet, you have Advantage on Strength checks and Strength saving throws, and your weapon attacks and Unarmed Strikes deal an extra [[/r 1d4]] damage on a hit. In exchange, you have Disadvantage on Dexterity checks and Dexterity saving throws.</p><p>As an action, you can shrink back to your original size to appear closer to a more typical mortal. You remain that way until you use another action to return to your new larger size.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 12,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Level 12+, Demigod species",
+    "type": {
+      "value": "feat",
+      "subtype": "general"
+    }
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.SX9v53ZSJ6qFQlv0",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742306635786,
+    "modifiedTime": 1742882787944,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "WryThzvkpjaS8mny",
+  "_key": "!items!WryThzvkpjaS8mny"
+}

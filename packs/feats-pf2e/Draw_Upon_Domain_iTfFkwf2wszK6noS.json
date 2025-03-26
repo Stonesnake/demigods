@@ -1,0 +1,71 @@
+{
+  "folder": "gNbyHSeIkB5ZVO2d",
+  "name": "Draw Upon Domain",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Choose a domain you can grant to your followers. You can cast the 1st rank domain spell granted by that domain once per day as a divine innate spell. When you do, it's an innate spell and not a focus spell, so it doesn't cost a Focus Point to do so.</p><hr /><p><strong>Special</strong> If you already have domains from boons, such as the @UUID[Compendium.battlezoo-ancestries-demigods.boons-pf2e.Item.jn3y8wulCNFtB3b9]{First Domain} boon, you must choose one of those domains for Draw Upon Domain, and if you have more than one, you can change the domain from Draw Upon Domain to another domain from that list during your daily preparations. If you have Draw Upon Domain and you later gain the First Domain boon, you must choose the same domain from Draw Upon Domain.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 1
+    },
+    "category": "ancestry",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742322552871,
+    "modifiedTime": 1742597142318,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "iTfFkwf2wszK6noS",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!iTfFkwf2wszK6noS"
+}

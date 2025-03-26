@@ -1,0 +1,60 @@
+{
+  "folder": "ArECxbLycUfLzCUD",
+  "name": "Quick Benediction",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>You've become so used to answering your followers' prayers that it's become second nature, hardly even distracting you. At the start of each of your turns, you gain an additional Reaction, which you can use only to use the @UUID[Compendium.battlezoo-ancestries-demigods.boons-dnd5e.Item.rfpOVPfe6ZNYUXvH]{Answer Prayer} boon.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Level 10+, Renown 22+, Answer Prayer divine boon",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.Gp8Xmt9hsGSCcR1v",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742309169186,
+    "modifiedTime": 1742885000112,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "6VuOGLTvN54GerPk",
+  "_key": "!items!6VuOGLTvN54GerPk"
+}

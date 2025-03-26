@@ -1,0 +1,75 @@
+{
+  "folder": "gNbyHSeIkB5ZVO2d",
+  "name": "Sacred Animal Form",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You can take on a specific form matching your sacred animal as a peaceful emissary. This form is distinctive and unique, and you change into the same form each time. Your animal form has some sort of supernatural clue, usually minor, indicating that it's special or related to your faith, such as a small religious symbol appearing on the fur, scales, or feathers or a sparkle in the light. Using Sacred Animal Form counts as creating a disguise for the @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Impersonate} use of Deception, though only to adopt your alternate form. In this animal form, you gain the statistics of a 1st-rank @UUID[Compendium.pf2e.spells-srd.Item.gfPjmG6Fe6D3MFjl], except that the form is the same size as your sacred animal, which might not be Tiny, and if the sacred animal is aquatic, you gain a swim Speed of 20 feet and no land Speed. As normal for 1st-rank <em>pest form</em>, you don't gain other Speeds, even if the sacred animal normally has them. You can remain in your alternate form indefinitely, and you can shift back to your true form by using this action again.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 1
+    },
+    "category": "ancestry",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "action"
+    },
+    "actions": {
+      "value": 1
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Your sacred animal is Medium or smaller"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742322552871,
+    "modifiedTime": 1742597407643,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "VrtV8s8XtMc4fQQl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!VrtV8s8XtMc4fQQl"
+}

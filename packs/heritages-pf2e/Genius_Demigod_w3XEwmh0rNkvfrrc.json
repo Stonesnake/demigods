@@ -1,0 +1,103 @@
+{
+  "folder": null,
+  "name": "Genius Demigod",
+  "type": "heritage",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Your brilliance, imagination, and ingenuity caused you to be labeled a genius, possibly even before you gained your divinity. You overflow with the virtue of innovation. You're trained in your choice of Arcana, Crafting, Occultism, or Society. If you were somehow already trained in all of those skills, you're trained in another skill of your choice instead. Due to your genius, you know just about all the basics of any topic you bother to study. Before your GM rolls a secret check for you to @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge} for a skill in which you're trained, you can tell them you'd like to use your genius. If you do and if the results of the @UUID[Compendium.pf2e.feats-srd.Item.W6Gl9ePmItfDHji0]{Assurance} skill feat would be a success, you gain that result instead of rolling; if they would be a failure, the GM rolls your secret check as normal instead. This doesn't give you the Assurance skill feat, nor do you need to have that skill feat, and you can use it for any skill in which you're trained.</p><p>Your fatal flaw is your choice of hesitation, hubris, or vulnerability.</p>"
+    },
+    "rules": [
+      {
+        "adjustName": false,
+        "choices": [
+          {
+            "label": "PF2E.Skill.Arcana",
+            "predicate": [
+              "skill:arcana:rank:0"
+            ],
+            "value": "arcana"
+          },
+          {
+            "label": "PF2E.Skill.Crafting",
+            "predicate": [
+              "skill:crafting:rank:0"
+            ],
+            "value": "crafting"
+          },
+          {
+            "label": "PF2E.Skill.Occultism",
+            "predicate": [
+              "skill:occultism:rank:0"
+            ],
+            "value": "occultism"
+          },
+          {
+            "label": "PF2E.Skill.Society",
+            "predicate": [
+              "skill:society:rank:0"
+            ],
+            "value": "society"
+          }
+        ],
+        "flag": "skill",
+        "key": "ChoiceSet",
+        "prompt": "PF2E.SpecificRule.Prompt.Skill"
+      },
+      {
+        "key": "ActiveEffectLike",
+        "mode": "upgrade",
+        "path": "system.skills.{item|flags.pf2e.rulesSelections.skill}.rank",
+        "value": 1
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "ancestry": {
+      "name": "Demigod",
+      "slug": "demigod",
+      "uuid": "Compendium.battlezoo-ancestries-demigods.ancestries-pf2e.Item.gy8S8ePIbUSfrzHe"
+    },
+    "details": {
+      "publication": {
+        "remaster": true,
+        "title": "Battlezoo Ancestries: Demigods",
+        "license": "ORC"
+      }
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/heritage.svg",
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742310881188,
+    "modifiedTime": 1742596112285,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "w3XEwmh0rNkvfrrc",
+  "sort": 100000,
+  "_key": "!items!w3XEwmh0rNkvfrrc"
+}

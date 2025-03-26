@@ -1,0 +1,18 @@
+{
+    "BZDEMI": {
+        "SpecificRule": {
+            "BlessingOfDivinity": {
+                "Bane": "Bane",
+                "Bless": "Bless"
+            },
+            "TricksterDemigod": {
+                "Prompt": "Select your method of trickery",
+                "StickyFingers": "Sticky fingers",
+                "Words": "Way with words"
+            }
+        },
+        "Trait": {
+            "Demigod": "Demigod"
+        }
+    }
+}

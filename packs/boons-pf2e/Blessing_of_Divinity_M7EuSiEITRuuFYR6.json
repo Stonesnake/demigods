@@ -1,0 +1,103 @@
+{
+  "folder": "tbE7wVmmLga1YaDR",
+  "name": "Blessing of Divinity",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Your divinity spills out from you in a visible aura, either blessing your allies or throwing off your foes. You're continuously surrounded by a @UUID[Compendium.pf2e.spells-srd.Item.XSujb7EsSwKl19Uu] or @UUID[Compendium.pf2e.spells-srd.Item.7ZinJNzxq0XF0oMx] spell (your choice), with a spell rank equal to half your level rounded up. The radius is 15 feet, and you can't increase it; instead, if you Sustain the Spell, you can change it from bless to bane or vice versa. You can Dismiss the spell; if you do, or if the spell ends for another reason, it returns automatically after 1 minute.</p><hr /><p><em>Note: The Pathfinder 2e system does not currently support auras that require saving throws, so only the bless aura is automated.</em></p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "key": "RollOption",
+        "option": "blessing-of-divinity",
+        "suboptions": [
+          {
+            "label": "BZDEMI.SpoecificRule.BlessingOfDivinity.Bane",
+            "value": "bane"
+          },
+          {
+            "label": "BZDEMI.SpoecificRule.BlessingOfDivinity.Bless",
+            "value": "bless"
+          }
+        ],
+        "toggleable": true
+      },
+      {
+        "key": "Aura",
+        "radius": 15,
+        "traits": [
+          "demigod"
+        ],
+        "effects": [
+          {
+            "uuid": "Compendium.pf2e.spell-effects.Item.Gqy7K6FnbLtwGpud",
+            "affects": "allies"
+          }
+        ],
+        "predicate": [
+          "blessing-of-divinity:bless"
+        ]
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 16
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742770326981,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "M7EuSiEITRuuFYR6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!M7EuSiEITRuuFYR6"
+}

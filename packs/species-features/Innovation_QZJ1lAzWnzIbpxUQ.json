@@ -1,0 +1,60 @@
+{
+  "folder": "p2P8Xz2UVJOKod8N",
+  "name": "Innovation",
+  "type": "feat",
+  "img": "icons/tools/laboratory/vials-blue-pink.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Innovation is the virtue of genius demigods whose otherworldly insights allow them to push the boundaries of what is possible and create something brand new. Whether it's something concrete like a magic item or spell, or something abstract like a new philosophy or way of structuring society, demigods of innovation might often seem understated at first but then go on to have a lasting impact far into the future.</p><p><strong>Real-World Examples:</strong> Examples of deities and demigods demonstrating innovation include Ilmarinen crafting the dome of the sky and forging the magic Sampo, and various deities across the world like Thoth, Hermes, and Ogma inventing writing.</p><p><strong>Associated Skills:</strong> Arcana, History, any Tool</p><p><strong>Associated Domain:</strong> Light</p>",
+      "chat": ""
+    },
+    "identifier": "virtue",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 1,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Demigod species",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.bsI94HhNAN1alhyz",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742307715688,
+    "modifiedTime": 1742846463697,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "QZJ1lAzWnzIbpxUQ",
+  "_key": "!items!QZJ1lAzWnzIbpxUQ"
+}

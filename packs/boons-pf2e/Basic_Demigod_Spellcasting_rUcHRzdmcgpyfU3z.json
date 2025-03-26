@@ -1,0 +1,76 @@
+{
+  "folder": "youGOMv2VJucg6Vh",
+  "name": "Basic Demigod Spellcasting",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You've learned how to grant basic spells in a similar way to full deities, albeit at a much shorter range. You gain the @UUID[Compendium.pf2e.journals.JournalEntry.vx5FGEG34AxI2dow.JournalEntryPage.DOc3Pf8wmVxanTIv#basic-spellcasting-feat]{basic spellcasting benefits}, allowing you to prepare spells from the divine spell list each day. If you have any demigod ancestry feats that add spells from other spell lists that your clerics can prepare, you can also prepare those spells in spell slots of the appropriate rank. You also gain the @UUID[Compendium.battlezoo-ancestries-demigods.features-pf2e.Item.HRebw56mBghaeDji]{Answer Prayer} reaction, which you can use to allow even your lay followers to access your demigod spells (your innate spells from the demigod ancestry, your domain spells you gained from a boon, or one of the spells you gained from @UUID[Compendium.battlezoo-ancestries-demigods.boons-pf2e.Item.rUcHRzdmcgpyfU3z]{Basic Demigod Spellcasting}, @UUID[Compendium.battlezoo-ancestries-demigods.boons-pf2e.Item.fEXGBz6MgbbfhZK5]{Expert Demigod Spellcasting}, or @UUID[Compendium.battlezoo-ancestries-demigods.boons-pf2e.Item.YjtM08JR4w8Ravpl]{Master Demigod Spellcasting}).</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.battlezoo-ancestries-demigods.features-pf2e.Item.HRebw56mBghaeDji"
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 4
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742768245327,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "rUcHRzdmcgpyfU3z",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!rUcHRzdmcgpyfU3z"
+}

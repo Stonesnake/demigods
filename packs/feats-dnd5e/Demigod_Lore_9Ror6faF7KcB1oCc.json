@@ -1,0 +1,110 @@
+{
+  "folder": "K42k6uydo4Ra0R0W",
+  "name": "Demigod Lore",
+  "type": "feat",
+  "img": "icons/sundries/scrolls/scroll-bound-tan-leather.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>You've learned much about religion and the realm of the gods, your own religion's main skill, and what it means to live in the world between mortal and divine as a demigod. You gain the following benefits.</p><p><strong>Skill Proficiency.</strong> You gain proficiency in the Religion skill and your divine skill.</p><p><strong>Reliable Lore.</strong> When you make an Intelligence (Religion) check to recall information about demigods, you can treat a d20 roll of 9 or lower as a 10. In addition, on a successful check you might know more information about the subject than normal, at the GM's discretion.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Demigod species",
+    "type": {
+      "value": "feat",
+      "subtype": "general"
+    }
+  },
+  "effects": [
+    {
+      "name": "Demigod Lore",
+      "img": "icons/sundries/scrolls/scroll-bound-tan-leather.webp",
+      "origin": "Compendium.battlezoo-ancestries-demigods.feat-dnd5e.Item.9Ror6faF7KcB1oCc",
+      "_id": "BEUlPr8Vo9DOUMde",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.skills.rel.value",
+          "mode": 4,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1742846195670,
+        "modifiedTime": 1742846213605,
+        "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+      },
+      "_key": "!items.effects!9Ror6faF7KcB1oCc.BEUlPr8Vo9DOUMde"
+    }
+  ],
+  "sort": 175000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.FRKo3zVAvqVruFU9",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742306715880,
+    "modifiedTime": 1742846087409,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "9Ror6faF7KcB1oCc",
+  "_key": "!items!9Ror6faF7KcB1oCc"
+}

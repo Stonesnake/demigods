@@ -1,0 +1,60 @@
+{
+  "folder": "eOBt2aFSEAp0UKXX",
+  "name": "Be Not Afraid",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Your overwhelming courage surrounds you almost like a shroud of divinity. While it might not be visible, you and your allies can feel it, and it protects you from fear. You have Advantage on saving throws against the &amp;Reference[Frightened] condition. In addition, when a creature you can see within 15 feet of you would make a saving throw against the &amp;Reference[Frightened] condition, you can use your Reaction to grant that creature Advantage on the save.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 4,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Level 4+, Courage Renown 6+",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.hCHPzg0ZpgLW5p7J",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742309778577,
+    "modifiedTime": 1742884249992,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "7MJcFsKqaqptlCFQ",
+  "_key": "!items!7MJcFsKqaqptlCFQ"
+}

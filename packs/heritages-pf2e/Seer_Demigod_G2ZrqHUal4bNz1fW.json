@@ -1,0 +1,71 @@
+{
+  "folder": null,
+  "name": "Seer Demigod",
+  "type": "heritage",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Your wisdom, insight, and understanding allowed you to make good choices, help others resolve conflicts, and sometimes even guess how the future might turn out and see beyond the veil of ignorance and foolishness, causing you to be labeled a seer or religious guide, possibly even before you gained your divinity. You overflow with the virtue of sagacity. You gain darkvision, allowing you to see in darkness and dim light just as well as you can see in bright light, and your vision in darkness is in full color, not just black and white.</p><p>Your fatal flaw is your choice of hesitation or vulnerability.</p>"
+    },
+    "rules": [
+      {
+        "key": "Sense",
+        "selector": "darkvision"
+      },
+      {
+        "key": "ActiveEffectLike",
+        "mode": "override",
+        "path": "flags.pf2e.colorDarkvision",
+        "value": true
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "ancestry": {
+      "name": "Demigod",
+      "slug": "demigod",
+      "uuid": "Compendium.battlezoo-ancestries-demigods.ancestries-pf2e.Item.gy8S8ePIbUSfrzHe"
+    },
+    "details": {
+      "publication": {
+        "remaster": true,
+        "title": "Battlezoo Ancestries: Demigods",
+        "license": "ORC"
+      }
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/heritage.svg",
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742310883366,
+    "modifiedTime": 1742596303049,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "G2ZrqHUal4bNz1fW",
+  "sort": 200000,
+  "_key": "!items!G2ZrqHUal4bNz1fW"
+}

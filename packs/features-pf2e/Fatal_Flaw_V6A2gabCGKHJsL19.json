@@ -1,0 +1,69 @@
+{
+  "folder": "cvvMjPEYkkpHXn8U",
+  "name": "Fatal Flaw",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>While you have some amount of divinity, and the combination of divine and mortal grants you great power and potential, you also possess a fatal flaw, which also determines your attribute flaw. Each demigod heritage has one of more fatal flaws available, and if you didn't choose one of the demigod heritages (typically because you picked a versatile heritage instead), you must take the hesitation flaw.</p><ul><li><p><strong>Hesitation:</strong> Whether it's the competing nature of divine and mortal or the sheer number of possibilities you can see throughout the Multiverse, you sometimes hesitate to make decisions quickly and your body and mind sometimes act at different speeds, hindering your physical coordination. Your attribute flaw is Dexterity.</p></li><li><p><strong>Hubris:</strong> As a demigod, you are more than a mere mortal, and your divinity allows you to gain worshipers, build up a religion, and even grant spells. You're amazing! Unfortunately, your pride sometimes causes you to make dangerous mistakes, though fortunately, your power might be enough to get you out of them. Your attribute flaw is Wisdom.</p></li><li><p><strong>Vulnerability:</strong> While you possess the limitless potential of the immortal, ultimately your mortality mixes in a fatal vulnerability that portends your undoing someday. Whether that's a certain spot on your body that's more vulnerable or a particular substance that can slay you, the end result is that you're just a little less sturdy. Your attribute flaw is Constitution.</p></li></ul>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 1
+    },
+    "category": "ancestryfeature",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/life/heart-broken-red.webp",
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742311087326,
+    "modifiedTime": 1742595149994,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "V6A2gabCGKHJsL19",
+  "sort": 100000,
+  "_key": "!items!V6A2gabCGKHJsL19"
+}

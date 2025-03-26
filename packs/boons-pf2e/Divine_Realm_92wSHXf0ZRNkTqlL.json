@@ -1,0 +1,71 @@
+{
+  "folder": "tbE7wVmmLga1YaDR",
+  "name": "Divine Realm",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You possess a divine realm in a pocket dimension, and though it might not be impressive compared to full deities, it's plenty magnificent by mortal standards. You can spend 1 minute to conjure a 5 foot by 10 foot doorway to your divine realm, which remains in its current location until you conjure another. Only you and creatures you invite into your divine realm can enter through the doorway, though it's possible for other creatures to trespass using means like @UUID[Compendium.pf2e.spells-srd.Item.5bTt2CvYHPvaR7QQ]. Your divine realm typically has a length and width equal to 20ft × your religion's level and a height equal to 5ft × your religion's level, though you can work with your GM if you prefer a divine realm with a different shape but a roughly similar area (such as a giant tree that's taller but smaller in the other dimensions). The theme and furnishings are up to you, though they only exist in your divine realm and can't be taken elsewhere or sold. Your divine realm has a number of simple servants equal to twice your religion's level; their appearance is up to you, but they can only perform simple tasks that would be possible for a @UUID[Compendium.pf2e.spells-srd.Item.xqmHD8JIjak15lRk] spell, regardless of how they look. If you wish it to, the divine realm produces enough food and drink to sustain a number of creatures equal to 10 × your religion level with luxurious and delicious meals each day.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod"
+      ],
+      "rarity": "uncommon"
+    },
+    "level": {
+      "value": 16
+    },
+    "category": "bonus",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742321428599,
+    "modifiedTime": 1742770407885,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "92wSHXf0ZRNkTqlL",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!92wSHXf0ZRNkTqlL"
+}

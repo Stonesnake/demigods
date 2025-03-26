@@ -1,0 +1,60 @@
+{
+  "folder": "oWGQ8kZoGzqHRWpA",
+  "name": "Preventative Insight",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>Your sagacity is so infallible that you have a sense when you're making a major blunder. If you're about to take a course of action that is a significant mistake leading to a bad outcome in the near future (typically one that would give a result of \"woe\" if you cast the <em>@UUID[Compendium.dnd5e.spells.Item.4v2H3hHb3Ph9XLNd]{Augury}</em> spell), you have a gut feeling that something is off. This doesn't tell you why something feels wrong or what part of a more complicated course of action is the problem. This doesn't protect you against every hypothetical bad decision that comes up casually in conversation—you need to be purposefully and clearly about to take the course of action to receive an automatic warning, though you can also maintain Concentration for 1 minute on a specific hypothetical course of action to consider it carefully enough to receive a warning if the outcome is bad.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 20,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Level 20, Sagacity 65+",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 350000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.xrNYYCeIJdus45RZ",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742308148180,
+    "modifiedTime": 1742884168231,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "xagpJW7Q88YS1ADX",
+  "_key": "!items!xagpJW7Q88YS1ADX"
+}

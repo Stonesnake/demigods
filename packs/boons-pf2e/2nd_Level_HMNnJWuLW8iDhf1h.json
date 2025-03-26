@@ -1,0 +1,22 @@
+{
+  "name": "2nd Level",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "HMNnJWuLW8iDhf1h",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742316964368,
+    "modifiedTime": 1742597160185,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_key": "!folders!HMNnJWuLW8iDhf1h"
+}

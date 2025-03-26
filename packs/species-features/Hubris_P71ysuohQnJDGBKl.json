@@ -1,0 +1,60 @@
+{
+  "folder": "4PNksXlFUmJWpopl",
+  "name": "Hubris",
+  "type": "feat",
+  "_id": "P71ysuohQnJDGBKl",
+  "img": "icons/magic/perception/eye-ringed-green.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>As a demigod, you are more than a mere mortal, and your divinity allows you to gain worshipers, build up a religion, and even grant spells. You're amazing! Unfortunately, your pride sometimes causes you to make dangerous mistakes, though fortunately, your power might be enough to get you out of them. You can never gain Advantage on Wisdom saving throws.</p>",
+      "chat": ""
+    },
+    "identifier": "hubris",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1jxGp7IRWiSzPmsk": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742840233427,
+    "modifiedTime": 1742883579397,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_key": "!items!P71ysuohQnJDGBKl"
+}

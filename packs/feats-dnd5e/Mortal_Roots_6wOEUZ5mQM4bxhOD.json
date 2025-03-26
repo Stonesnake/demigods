@@ -1,0 +1,60 @@
+{
+  "folder": "4HtphL7Mi31YgY5K",
+  "name": "Mortal Roots",
+  "type": "feat",
+  "img": "icons/environment/people/group.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p>No matter how far you progress in your growth as a deity, you'll never forget your mortal roots. You gain the species traits of the species you chose for your Part Mortal species trait, and you can select feats that have your mortal species as a prerequisite.</p>",
+      "chat": ""
+    },
+    "identifier": "new-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024",
+      "book": "Battlezoo Ancestries: Demigods",
+      "page": "",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 4,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Level 4+, Part Mortal species trait",
+    "type": {
+      "value": "feat",
+      "subtype": "general"
+    }
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "t9eDgEBGJlykfLHA": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.8jn4kP9vEAxC7ToK",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742306676193,
+    "modifiedTime": 1742847353275,
+    "lastModifiedBy": "1jxGp7IRWiSzPmsk"
+  },
+  "_id": "6wOEUZ5mQM4bxhOD",
+  "_key": "!items!6wOEUZ5mQM4bxhOD"
+}

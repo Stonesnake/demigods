@@ -1,0 +1,76 @@
+{
+  "folder": "UiUt43DOHTkZah2I",
+  "name": "Wanderer's Sacred Animal Form",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You can take on a specific form matching your sacred animal as a peaceful emissary and use the animal's special movement. This form is distinctive and unique, and you change into the same form each time. Your animal form has a supernatural clue, usually minor, indicating that it's special or related to your faith, such as a small religious symbol appearing on the fur, scales, or feathers or a sparkle in the light. Using Wanderer's Sacred Animal Form counts as creating a disguise for the @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Impersonate} use of Deception, though only to adopt your alternate form. In this animal form, you gain the statistics of a 4th-rank @UUID[Compendium.pf2e.spells-srd.Item.gfPjmG6Fe6D3MFjl], except that the form is the same size as your sacred animal, which might not be Tiny, and you gain any of climb, fly, land, and swim Speeds that your sacred animal normally has, with a Speed of 20 feet for each . You can remain in your alternate form indefinitely, and you can shift back to your true form by using this action again.</p><hr /><p><strong>Special</strong> If you had the @UUID[Compendium.battlezoo-ancestries-demigods.feats-pf2e.Item.VrtV8s8XtMc4fQQl]{Sacred Animal Form} feat, you can immediately retrain that feat into a different feat.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "demigod",
+        "polymorph"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 9
+    },
+    "category": "ancestry",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "action"
+    },
+    "actions": {
+      "value": 1
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Your sacred animal has a climb, fly, or\r\nswim Speed and is Medium or smaller"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742322552871,
+    "modifiedTime": 1742598600135,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "58JiNDbzIQO4crQl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!58JiNDbzIQO4crQl"
+}

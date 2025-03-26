@@ -1,0 +1,73 @@
+{
+  "folder": "UiUt43DOHTkZah2I",
+  "name": "Delve into Domain",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You delve deeper into your connection to your domain, granting you further power. You can cast the 4th-rank domain spell granted by the domain you chose with @UUID[Compendium.battlezoo-ancestries-demigods.feats-pf2e.Item.iTfFkwf2wszK6noS]{Draw Upon Domain} once per day as a divine innate spell. When you do, it's an innate spell and not a focus spell, so it doesn't cost a Focus Point to do so.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 9
+    },
+    "category": "ancestry",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Draw Upon Domain"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742322552871,
+    "modifiedTime": 1742598185225,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "4LcfQpDbi2pDCkN5",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "_key": "!items!4LcfQpDbi2pDCkN5"
+}

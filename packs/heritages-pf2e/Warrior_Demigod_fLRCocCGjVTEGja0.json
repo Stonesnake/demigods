@@ -1,0 +1,86 @@
+{
+  "folder": null,
+  "name": "Warrior Demigod",
+  "type": "heritage",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Your bravery, might, and skill at arms allowed you to continue to fight and defeat foes even when the situation seemed impossible, causing you to be labeled as a true warrior or hero, possibly even before you gained your divinity. You overflow with the virtue of courage. Your Hit Points from the demigod ancestry increase from 8 to 10, and you gain your choice of the @UUID[Compendium.battlezoo-ancestries-demigods.feats-pf2e.Item.9TDebttbBRA4f2hQ]{Favored Weapon Familiarity} ancestry feat or the @UUID[Compendium.pf2e.feats-srd.Item.AmP0qu7c5dlBSath]{Toughness} general feat.</p><p>Your fatal flaw is your choice of hubris or vulnerability.</p>"
+    },
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "upgrade",
+        "path": "system.attributes.ancestryhp",
+        "priority": 51,
+        "value": 10
+      },
+      {
+        "adjustName": false,
+        "choices": [
+          {
+            "value": "Compendium.battlezoo-ancestries-demigods.feats-pf2e.Item.9TDebttbBRA4f2hQ"
+          },
+          {
+            "value": "Compendium.pf2e.feats-srd.Item.AmP0qu7c5dlBSath"
+          }
+        ],
+        "key": "ChoiceSet",
+        "prompt": "PF2E.SpecificRule.Prompt.Feat",
+        "flag": "feat"
+      },
+      {
+        "key": "GrantItem",
+        "uuid": "{item|flags.pf2e.rulesSelections.feat}"
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "publication": {
+      "title": "Battlezoo Ancestries: Demigods",
+      "authors": "",
+      "license": "ORC",
+      "remaster": true
+    },
+    "ancestry": {
+      "name": "Demigod",
+      "slug": "demigod",
+      "uuid": "Compendium.battlezoo-ancestries-demigods.ancestries-pf2e.Item.gy8S8ePIbUSfrzHe"
+    },
+    "details": {
+      "publication": {
+        "remaster": true,
+        "title": "Battlezoo Ancestries: Demigods",
+        "license": "ORC"
+      }
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/heritage.svg",
+  "ownership": {
+    "default": 0,
+    "a4jenRFWJjNyIuAt": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742322670853,
+    "modifiedTime": 1742596775289,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_id": "fLRCocCGjVTEGja0",
+  "sort": 0,
+  "_key": "!items!fLRCocCGjVTEGja0"
+}

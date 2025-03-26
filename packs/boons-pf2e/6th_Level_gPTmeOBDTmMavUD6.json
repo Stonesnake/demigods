@@ -1,0 +1,22 @@
+{
+  "name": "6th Level",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "gPTmeOBDTmMavUD6",
+  "description": "",
+  "sort": 300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2",
+    "createdTime": 1742316977234,
+    "modifiedTime": 1742597160185,
+    "lastModifiedBy": "l2rbNx2a8f5ocpeL"
+  },
+  "_key": "!folders!gPTmeOBDTmMavUD6"
+}
