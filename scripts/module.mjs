@@ -2,6 +2,7 @@ export default {
   moduleId: "battlezoo-ancestries-demigods",
   packName: "demigods",
   journalFlag: "isDemigod",
-  cssClass: "pf2e-demigods",
+  cssClassPF2e: "pf2e-demigods",
+  cssClass5e: "dnd5e-demigods",
   languages: ["en"]
 }

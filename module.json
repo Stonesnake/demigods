@@ -286,6 +286,7 @@
     "scripts/kickstarter-announcement.mjs"
   ],
   "styles": [
-    "styles/demigods.css"
+    "styles/demigods-pf2e.css",
+    "styles/demigods-dnd5e.css"
   ]
 }
