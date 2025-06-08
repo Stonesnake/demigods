@@ -1553,8 +1553,8 @@ div.journal-sheet.dnd5e-demigods.window-app .window-header a {
 }
 
 .dnd5e-demigods section.window-content {
-  color: black;
-  background: url("./assets/white-paper-background.webp") repeat;
+  background: transparent;
+  backdrop-filter: blur(4px);
 }
 .dnd5e-demigods section.window-content  section.journal-entry-content {
   color: black;
