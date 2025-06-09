@@ -425,6 +425,7 @@ span[data-pf2-check] > i.icon:has(+ span.label > :first-child:is([data-visibilit
 .journal-sheet.pf2e-demigods .journal-page-content figure.right {
   float: right;
   margin: 0.25rem 0 0.25rem 0.5rem;
+  max-width: 100%;
 }
 .journal-sheet.pf2e-demigods .journal-page-content figure.right figcaption,
 .journal-sheet.pf2e-demigods .journal-page-content figure.left figcaption {
@@ -449,6 +450,7 @@ span[data-pf2-check] > i.icon:has(+ span.label > :first-child:is([data-visibilit
 .journal-sheet.pf2e-demigods .journal-page-content figure.left {
   float: left;
   margin: 0.25rem 0.5rem 0.25rem 0;
+  max-width: 100%;
 }
 .journal-sheet.pf2e-demigods .journal-page-content figure.left figure.square {
   flex-basis: 150px;
